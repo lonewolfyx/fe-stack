@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/lonewolfyx/fe-stack/main/public/logo.svg" width="200" height="200" alt="front end stack">
+    <img src="https://raw.githubusercontent.com/lonewolfyx/fe-stack/refs/heads/master/public/logo.svg" width="200" height="200" alt="front end stack">
 # FE Stack
 </div>
 
