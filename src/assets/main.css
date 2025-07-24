@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+
+body, #app {
+  @apply relative w-screen h-screen;
+}
