@@ -92,6 +92,15 @@ const buildNode = {
         cNode('4.7', 'tsdown', 'https://github.com/rolldown/tsdown'),
         cNode('4.8', 'parcel', 'https://parceljs.org/'),
         cNode('4.9', 'turborepo', 'https://turborepo.com/'),
+        {
+            id: '4.10',
+            topic: 'web-infra-dev',
+            children: [
+                cNode('4.10.1', 'Rspack', 'https://github.com/web-infra-dev/rspack'),
+                cNode('4.10.2', 'Rsbuild', 'https://github.com/web-infra-dev/rsbuild'),
+                cNode('4.10.3', 'Rslib', 'https://github.com/web-infra-dev/rslib'),
+            ],
+        },
     ],
 }
 
