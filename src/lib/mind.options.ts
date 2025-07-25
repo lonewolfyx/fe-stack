@@ -201,6 +201,30 @@ const animationNode = {
     ],
 }
 
+const thirdsNode = {
+    id: '8',
+    topic: 'Thirds',
+    children: [
+        cNode('8.1', '系统调用工具库', '', {
+            children: [
+                cNode('8.1.1', 'tinyexec', 'https://github.com/tinylibs/tinyexec'),
+            ],
+        }),
+        cNode('8.2', 'TypeScript 运行时工具', '', {
+            children: [
+                cNode('8.2.1', 'tsx', 'https://github.com/privatenumber/tsx'),
+            ],
+        }),
+        cNode('8.3', '解析类', '', {
+            children: [
+                cNode('8.3.1', 'js-yaml', 'https://github.com/nodeca/js-yaml'),
+                cNode('8.3.1', 'ini', 'https://github.com/npm/ini'),
+                cNode('8.3.1', 'toml', 'https://github.com/BinaryMuse/toml-node'),
+                cNode('8.3.1', 'yaml', 'https://github.com/eemeli/yaml'),
+            ],
+        }),
+    ],
+}
 export const mindOptions: MindElixirData = {
     nodeData: {
         id: 'root',
@@ -213,6 +237,7 @@ export const mindOptions: MindElixirData = {
             iconNode,
             frameworkNode,
             animationNode,
+            thirdsNode,
         ],
     },
     theme: {
