@@ -185,14 +185,21 @@ const frameworkNode = {
     ],
 }
 
-// cNode('6.1.8.5', 'Scroll Reveal', 'https://scrollrevealjs.org/'),
-// cNode('6.1.8.7', 'Scroll Magic', 'https://scrollmagic.io/'),
-// cNode('6.1.8.3', 'Rellax', 'https://github.com/dixonandmoe/rellax'),
-// cNode('6.1.8.2', 'Animate.css', 'https://animate.style/'),
-// cNode('6.1.8.4', 'Animate On Scroll', 'https://michalsnik.github.io/aos/'),
-// cNode('6.1.8.6', 'Wow.js', 'https://wowjs.uk/'),
-// cNode('6.1.8.11', 'Three.js', 'https://threejs.org/');
-// cNode('6.1.8.12', 'GSAP', 'https://greensock.com/docs/v3/GSAP'),
+const animationNode = {
+    id: '7',
+    topic: 'Animation',
+    children: [
+        cNode('7.1', 'Scroll Reveal', 'https://scrollrevealjs.org/'),
+        cNode('7.2', 'Scroll Magic', 'https://scrollmagic.io/'),
+        cNode('7.3', 'Rellax', 'https://github.com/dixonandmoe/rellax'),
+        cNode('7.4', 'Animate.css', 'https://animate.style/'),
+        cNode('7.5', 'Animate On Scroll', 'https://michalsnik.github.io/aos/'),
+        cNode('7.6', 'Wow.js', 'https://wowjs.uk/'),
+        cNode('7.7', 'Three.js', 'https://threejs.org/'),
+        cNode('7.8', 'GSAP', 'https://greensock.com/docs/v3/GSAP'),
+        cNode('7.9', 'lottie-web', 'https://github.com/airbnb/lottie-web'),
+    ],
+}
 
 export const mindOptions: MindElixirData = {
     nodeData: {
@@ -205,6 +212,7 @@ export const mindOptions: MindElixirData = {
             buildNode,
             iconNode,
             frameworkNode,
+            animationNode,
         ],
     },
     theme: {
