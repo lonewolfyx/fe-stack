@@ -46,18 +46,7 @@ const cliNode = {
 const uiNode = {
     id: '2',
     topic: 'UI',
-    children: [
-        cNode('2.1', 'Element Plus', 'https://element-plus.org/'),
-        cNode('2.2', 'PrimeVue', 'https://primevue.org/'),
-        cNode('2.3', 'Reka UI', 'https://reka-ui.com/'),
-        cNode('2.4', 'Headless UI', 'https://headlessui.com/'),
-        cNode('2.5', 'Naive UI', 'https://www.naiveui.com/'),
-        cNode('2.6', 'Flowbite Vue', 'https://flowbite-vue.com/'),
-        cNode('2.7', 'Ant Design Vue', 'https://antdv.com/'),
-        cNode('2.8', 'Vuestic UI', 'https://ui.vuestic.dev/'),
-        cNode('2.9', 'Ark UI', 'https://ark-ui.com/'),
-        cNode('2.10', 'Arco Design Vue', 'https://arco.design/vue/'),
-    ],
+    children: [],
 }
 
 const cssNode = {
@@ -133,16 +122,89 @@ const iconNode = {
         cNode('5.10', 'Icon Font', 'https://www.iconfont.cn/'),
     ],
 }
+
+const frameworkNode = {
+    id: '6',
+    topic: 'Framework',
+    children: [
+        cNode('6.1', 'Vue', 'https://vuejs.org/', {
+            children: [
+                cNode('6.1.1', 'Vue Router', 'https://router.vuejs.org/'),
+                cNode('6.1.2', 'Pinia', 'https://pinia.vuejs.org/', {
+                    children: [
+                        cNode('6.1.2.1', 'Pinia Plugin Persistedstate', 'https://github.com/prazdevs/pinia-plugin-persistedstate/'),
+                    ],
+                }),
+                cNode('6.1.3', 'VueUse', 'https://github.com/vueuse/vueuse'),
+                cNode('6.1.4', 'Vue I18n', 'https://github.com/intlify/vue-i18n'),
+                cNode('6.1.5', 'Vue DevTools', 'https://github.com/vuejs/devtools'),
+
+                cNode('6.1.6', 'UI Component Library', '', {
+                    children: [
+                        cNode('6.1.6.1', 'Element Plus', 'https://element-plus.org/'),
+                        cNode('6.1.6.2', 'PrimeVue', 'https://primevue.org/'),
+                        cNode('6.1.6.3', 'Reka UI', 'https://reka-ui.com/'),
+                        cNode('6.1.6.4', 'Headless UI', 'https://headlessui.com/'),
+                        cNode('6.1.6.5', 'Naive UI', 'https://www.naiveui.com/'),
+                        cNode('6.1.6.6', 'Flowbite Vue', 'https://flowbite-vue.com/'),
+                        cNode('6.1.6.7', 'Ant Design Vue', 'https://antdv.com/'),
+                        cNode('6.1.6.8', 'Vuestic UI', 'https://ui.vuestic.dev/'),
+                        cNode('6.1.6.9', 'Ark UI', 'https://ark-ui.com/'),
+                        cNode('6.1.6.10', 'Arco Design Vue', 'https://arco.design/vue/'),
+                        cNode('6.1.6.11', 'Inspira Ui', 'https://github.com/unovue/inspira-ui'),
+                    ],
+                }),
+                cNode('6.1.7', 'Vite Plugins', '', {
+                    children: [
+                        cNode('6.1.7.1', 'vite-plugin-pages', 'https://github.com/hannoeru/vite-plugin-pages'),
+                        cNode('6.1.7.2', 'rollup-plugin-visualizer', 'https://github.com/btd/rollup-plugin-visualizer'),
+                        cNode('6.1.7.3', 'vite-plugin-restart', 'https://github.com/antfu/vite-plugin-restart'),
+                        cNode('6.1.7.4', 'unplugin-vue-components', 'https://github.com/unplugin/unplugin-vue-components'),
+                        cNode('6.1.7.5', 'vite-plugin-style-import', 'https://github.com/vbenjs/vite-plugin-style-import'),
+                        cNode('6.1.7.6', 'unplugin-auto-import', 'https://github.com/unplugin/unplugin-auto-import'),
+                        cNode('6.1.7.7', 'vite-plugin-svg-icons', 'https://github.com/vbenjs/vite-plugin-svg-icons'),
+                        cNode('6.1.7.8', 'vite-plugin-html', 'https://github.com/vbenjs/vite-plugin-html'),
+                        cNode('6.1.7.9', 'vite-plugin-compression', 'https://github.com/vbenjs/vite-plugin-compression'),
+                        cNode('6.1.7.10', 'vite-plugin-imagemin', 'https://github.com/vbenjs/vite-plugin-imagemin'),
+                        cNode('6.1.7.11', 'vite-plugin-purge-icons', 'https://www.npmjs.com/package/vite-plugin-purge-icons'),
+                        cNode('6.1.7.12', '@vitejs/plugin-vue-jsx', 'https://github.com/vitejs/vite-plugin-vue'),
+                        cNode('6.1.7.13', 'vite-plugin-vue-setup-extend', 'https://github.com/vbenjs/vite-plugin-vue-setup-extend'),
+                        cNode('6.1.7.14', 'vitejs-plugin-legacy', 'https://www.npmjs.com/package/@vitejs/plugin-legacy'),
+                        cNode('6.1.7.15', 'vite-plugin-vue-images', 'https://github.com/sampullman/vite-plugin-vue-images'),
+                        cNode('6.1.7.16', '@vitejs/plugin-legacy', 'https://github.com/vitejs/vite/tree/main/packages/plugin-legacy'),
+                    ],
+                }),
+                cNode('6.1.8', 'Motions', '', {
+                    children: [
+                        cNode('6.1.8.1', 'Motion Vue', 'https://motion.dev/docs/vue/'),
+                    ],
+                }),
+                cNode('6.1.9', 'Nuxt', 'https://nuxt.com/'),
+            ],
+        }),
+    ],
+}
+
+// cNode('6.1.8.5', 'Scroll Reveal', 'https://scrollrevealjs.org/'),
+// cNode('6.1.8.7', 'Scroll Magic', 'https://scrollmagic.io/'),
+// cNode('6.1.8.3', 'Rellax', 'https://github.com/dixonandmoe/rellax'),
+// cNode('6.1.8.2', 'Animate.css', 'https://animate.style/'),
+// cNode('6.1.8.4', 'Animate On Scroll', 'https://michalsnik.github.io/aos/'),
+// cNode('6.1.8.6', 'Wow.js', 'https://wowjs.uk/'),
+// cNode('6.1.8.11', 'Three.js', 'https://threejs.org/');
+// cNode('6.1.8.12', 'GSAP', 'https://greensock.com/docs/v3/GSAP'),
+
 export const mindOptions: MindElixirData = {
     nodeData: {
         id: 'root',
         topic: 'Front End Stack',
         children: [
             cliNode,
-            uiNode,
+            // uiNode,
             cssNode,
             buildNode,
             iconNode,
+            frameworkNode,
         ],
     },
     theme: {
