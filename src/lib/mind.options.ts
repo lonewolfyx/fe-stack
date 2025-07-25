@@ -11,7 +11,7 @@ const cliNode = {
             topic: '命令解析',
             children: [
                 cNode('1.1.1', 'commander', 'https://github.com/tj/commander.js'),
-                cNode('1.1.2', 'cac', 'https://github.com/cacjs/cac'),
+                cNode('1.1.2', 'cac', 'https://github.com/cacjs/cac', { icons: ['✨✨✨'] }),
                 cNode('1.1.3', 'Yargs', 'https://github.com/yargs/yargs'),
             ],
         },
@@ -19,12 +19,25 @@ const cliNode = {
             id: '1.2',
             topic: '美化输出和交互',
             children: [
-                cNode('1.2.1', 'prompts', 'https://github.com/terkelg/prompts'),
-                cNode('1.2.2', '@clack/prompts', 'https://github.com/bombshell-dev/clack'),
-                cNode('1.2.3', 'figlet', 'https://github.com/patorjk/figlet.js'),
-                cNode('1.2.4', 'Inquirer.js', 'https://github.com/SBoudrias/Inquirer.js'),
-                cNode('1.2.5', 'Enquirer', 'https://github.com/enquirer/enquirer'),
-                cNode('1.2.6', 'picocolors', 'https://github.com/alexeyraspopov/picocolors'),
+                {
+                    id: '1.2.1',
+                    topic: '交互',
+                    children: [
+                        cNode('1.2.1.1', 'prompts', 'https://github.com/terkelg/prompts'),
+                        cNode('1.2.1.2', '@clack/prompts', 'https://github.com/bombshell-dev/clack'),
+                        cNode('1.2.1.3', 'Inquirer.js', 'https://github.com/SBoudrias/Inquirer.js'),
+                        cNode('1.2.1.4', 'Enquirer', 'https://github.com/enquirer/enquirer'),
+                    ],
+                },
+                {
+                    id: '1.2.2',
+                    topic: '美化输出',
+                    children: [
+                        cNode('1.2.2.1', 'figlet', 'https://github.com/patorjk/figlet.js'),
+                        cNode('1.2.2.2', 'picocolors', 'https://github.com/alexeyraspopov/picocolors'),
+                        cNode('1.2.2.3', 'ansis', 'https://github.com/webdiscus/ansis'),
+                    ],
+                },
             ],
         },
     ],
