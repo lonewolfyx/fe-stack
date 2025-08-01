@@ -68,7 +68,6 @@ const fetchNPMDownloads = async (packageName: string, period: string = 'last-mon
 const fetchGitHubStars = async (repoPath: string): Promise<GitHubRepoStars> => {
     try {
         const url = `https://api.github.com/repos/${repoPath}`
-        console.log(process.env)
         const token = process.env.GITHUB_REQUEST_TOKEN
 
         const response = await $fetch<GitHubRepo>(url, {
@@ -150,7 +149,7 @@ const safeFetch = <T>(shouldFetch: boolean, fetchFn: () => Promise<T>, fallback:
     // console.log(enriched)
 
     await writeFile(
-        resolve(process.cwd(), './public/dependency.json'),
+        '../public/dependency.json',
         JSON.stringify(enriched, null, 2),
         {
             encoding: 'utf-8',
