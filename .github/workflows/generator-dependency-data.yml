@@ -42,3 +42,4 @@ jobs:
          author_email: 877085893@qq.com
          message: "fix(data): Update the latest number of stars and downloads in dependency.json"
          add: "."
+         token: ${{ secrets.ACCESS_TOKEN }}
