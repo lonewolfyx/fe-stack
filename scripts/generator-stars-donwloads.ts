@@ -150,7 +150,7 @@ const safeFetch = <T>(shouldFetch: boolean, fetchFn: () => Promise<T>, fallback:
     // console.log(enriched)
 
     await outputFile(
-        resolve(process.cwd(), './public/dependency.json'),
+        resolve(process.cwd(), '/public/dependency.json'),
         JSON.stringify(enriched, null, 2),
         {
             encoding: 'utf-8',
