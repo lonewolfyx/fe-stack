@@ -40,4 +40,5 @@ jobs:
          add: "."
          
       env:
+         GITHUB_REQUEST_TOKEN: ${{ secrets.REQUEST_TOKEN }}
          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
