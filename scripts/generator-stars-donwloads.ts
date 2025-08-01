@@ -3,7 +3,6 @@ import dependenciesData from '../public/dependency.json'
 
 import dotenv from 'dotenv'
 import { resolve } from 'node:url'
-import { writeFile } from 'node:fs/promises'
 import { outputFile } from 'fs-extra'
 
 dotenv.config({ path: resolve(process.cwd(), './.env') })
@@ -150,7 +149,7 @@ const safeFetch = <T>(shouldFetch: boolean, fetchFn: () => Promise<T>, fallback:
     // console.log(enriched)
 
     await outputFile(
-        resolve(process.cwd(), '/public/dependency.json'),
+        `${process.cwd()}/public/dependency.json`,
         JSON.stringify(enriched, null, 2),
         {
             encoding: 'utf-8',
