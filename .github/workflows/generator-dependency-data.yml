@@ -26,9 +26,11 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
 
-#      - name: Build
-#        run: |
-#          npm install
+      - name: Build
+        run: npm install
+
+      - name: run
+        run: GITHUB_REQUEST_TOKEN=${{secrets.REQUEST_TOKEN}} npm run gen:data
 
       - name: "Commit"
         uses: EndBug/add-and-commit@v4
