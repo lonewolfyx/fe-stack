@@ -2,12 +2,13 @@ name: Generator Dependency Star Download Data
 
 on:
   push:
-    branches: [ "master" ]
+    branches: ['master']
   pull_request:
-    branches: [ "master" ]
+    branches: ['master']
+
   schedule:
-      - cron: "0 * * * *"
-  
+    - cron: '0 * * * *'
+
   workflow_dispatch:
 
 jobs:
@@ -19,24 +20,32 @@ jobs:
         node-version: [22.x]
 
     steps:
-    - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v4
-      with:
-        node-version: ${{ matrix.node-version }}
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
 
-    - name: Build
-      run: |
-        npm install
-        GITHUB_REQUEST_TOKEN=${{ secrets.REQUEST_TOKEN }} npm run gen:data
+      - name: Set beijing TimeZone
+        uses: szenius/set-timezone@v1.2 # 设置虚拟环境的时区，可更改时区
+        with:
+          timezoneLinux: 'Asia/Shanghai'
+          timezoneMacos: 'Asia/Singapore'
 
-    - name: "Commit"
-      uses: EndBug/add-and-commit@v4
-      with:
-         author_name: lonewolfyx
-         author_email: 877085893@qq.com
-         message: "fix(data): Update the latest number of stars and downloads in dependency.json"
-         add: "."
-      env:
-        GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run Data
+        run: GITHUB_REQUEST_TOKEN=${{ secrets.REQUEST_TOKEN }} npm run gen:data
+
+      - name: 'Commit'
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: lonewolfyx
+          author_email: 877085893@qq.com
+          message: 'fix(data): Update the latest number of stars and downloads in dependency.json'
+          add: '.'
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
