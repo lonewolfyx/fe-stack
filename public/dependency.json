@@ -1,2220 +1,2220 @@
 [
-    {
-        "id": "commander",
-        "name": "commander",
-        "description": "node.js command-line interfaces made easy",
-        "category": {
-            "main": "scaffolding",
-            "children": "command"
-        },
-        "packageName": "commander",
-        "github": "https://github.com/tj/commander.js",
-        "npm": "https://www.npmjs.com/package/commander",
-        "website": "https://github.com/tj/commander.js",
-        "author": {
-            "name": "tj",
-            "url": "https://github.com/tj"
-        },
-        "stars": 27499,
-        "downloads": 925902976
-    },
-    {
-        "id": "cac",
-        "name": "cac",
-        "description": "Simple yet powerful framework for building command-line apps.",
-        "category": {
-            "main": "scaffolding",
-            "children": "command"
-        },
-        "packageName": "cac",
-        "github": "https://github.com/cacjs/cac",
-        "npm": "https://www.npmjs.com/package/cac",
-        "website": "https://github.com/cacjs/cac",
-        "author": {
-            "name": "egoist",
-            "url": "https://github.com/egoist"
-        },
-        "stars": 2811,
-        "downloads": 56211974
-    },
-    {
-        "id": "Yargs",
-        "name": "Yargs",
-        "description": "yargs the modern, pirate-themed successor to optimist.",
-        "category": {
-            "main": "scaffolding",
-            "children": "command"
-        },
-        "packageName": "yargs",
-        "github": "https://github.com/yargs/yargs",
-        "npm": "https://www.npmjs.com/package/yargs",
-        "website": "https://yargs.js.org/",
-        "author": {
-            "name": "yargs",
-            "url": "https://github.com/yargs"
-        },
-        "stars": 11324,
-        "downloads": 545145695
-    },
-    {
-        "id": "prompts",
-        "name": "prompts",
-        "description": "❯ Lightweight, beautiful and user-friendly interactive prompts",
-        "category": {
-            "main": "scaffolding",
-            "children": "interaction"
-        },
-        "packageName": "prompts",
-        "github": "https://github.com/terkelg/prompts",
-        "npm": "https://www.npmjs.com/package/prompts",
-        "website": "https://github.com/terkelg/prompts",
-        "author": {
-            "name": "Terkel",
-            "url": "https://github.com/terkelg"
-        },
-        "stars": 9122,
-        "downloads": 148795042
-    },
-    {
-        "id": "@clack/prompts",
-        "name": "@clack/prompts",
-        "description": "Effortlessly build beautiful command-line apps",
-        "category": {
-            "main": "scaffolding",
-            "children": "interaction"
-        },
-        "packageName": "@clack/prompts",
-        "github": "https://github.com/bombshell-dev/clack",
-        "npm": "https://www.npmjs.com/package/@clack/prompts",
-        "website": "https://www.clack.cc/",
-        "author": {
-            "name": "bombshell",
-            "url": "https://github.com/bombshell-dev"
-        },
-        "stars": 6696,
-        "downloads": 6488602
-    },
-    {
-        "id": "Inquirer.js",
-        "name": "Inquirer.js",
-        "description": "A collection of common interactive command line user interfaces.",
-        "category": {
-            "main": "scaffolding",
-            "children": "interaction"
-        },
-        "packageName": "@inquirer/prompts",
-        "github": "https://github.com/SBoudrias/Inquirer.js",
-        "npm": "https://www.npmjs.com/package/@inquirer/prompts",
-        "website": "https://github.com/SBoudrias/Inquirer.js",
-        "author": {
-            "name": "SBoudrias",
-            "url": "https://github.com/SBoudrias"
-        },
-        "stars": 21015,
-        "downloads": 32798851
-    },
-    {
-        "id": "Enquirer",
-        "name": "Enquirer",
-        "description": "Stylish, intuitive and user-friendly prompts. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, hygen, hardhat, AWS Amplify, GitHub Actions Toolkit",
-        "category": {
-            "main": "scaffolding",
-            "children": "interaction"
-        },
-        "packageName": "enquirer",
-        "github": "https://github.com/enquirer/enquirer",
-        "npm": "https://www.npmjs.com/package/enquirer",
-        "website": "https://github.com/enquirer/enquirer",
-        "author": {
-            "name": "Jon Schlinkert",
-            "url": "https://github.com/jonschlinkert"
-        },
-        "stars": 7856,
-        "downloads": 92855798
-    },
-    {
-        "id": "figlet",
-        "name": "figlet",
-        "description": "A FIG Driver written in JavaScript which aims to fully implement the FIGfont spec.",
-        "category": {
-            "main": "scaffolding",
-            "children": "Beautification Output"
-        },
-        "packageName": "figlet",
-        "github": "https://github.com/patorjk/figlet.js",
-        "npm": "https://www.npmjs.com/package/figlet",
-        "website": "https://github.com/patorjk/figlet.js",
-        "author": {
-            "name": "patorjk",
-            "url": "https://github.com/patorjk"
-        },
-        "stars": 2835,
-        "downloads": 10631203
-    },
-    {
-        "id": "picocolors",
-        "name": "picocolors",
-        "description": "The tiniest and the fastest library for terminal output formatting with ANSI colors",
-        "category": {
-            "main": "scaffolding",
-            "children": "Beautification Output"
-        },
-        "packageName": "picocolors",
-        "github": "https://github.com/alexeyraspopov/picocolors",
-        "npm": "https://www.npmjs.com/package/picocolors",
-        "website": "https://github.com/alexeyraspopov/picocolors",
-        "author": {
-            "name": "Oleksii <alexeyraspopov>",
-            "url": "https://github.com/alexeyraspopov"
-        },
-        "stars": 1563,
-        "downloads": 375427610
-    },
-    {
-        "id": "ansis",
-        "name": "ansis",
-        "description": "CJS/ESM ANSI color library for terminals, CI and Chromium-based browser consoles. Compatible with Bun, Deno, Next.JS.",
-        "category": {
-            "main": "scaffolding",
-            "children": "Beautification Output"
-        },
-        "packageName": "ansis",
-        "github": "https://github.com/webdiscus/ansis",
-        "npm": "https://www.npmjs.com/package/ansis",
-        "website": "https://github.com/webdiscus/ansis",
-        "author": {
-            "name": "webdiscus",
-            "url": "https://github.com/webdiscus"
-        },
-        "stars": 415,
-        "downloads": 23238538
-    },
-    {
-        "id": "vite",
-        "name": "vite",
-        "description": "Next generation frontend tooling. It's fast!",
-        "category": {
-            "main": "Build Package",
-            "children": "build"
-        },
-        "packageName": "vite",
-        "github": "https://github.com/vitejs/vite",
-        "npm": "https://www.npmjs.com/package/vite",
-        "website": "https://vite.dev/",
-        "author": {
-            "name": "Evan You",
-            "url": "https://github.com/yyx990803"
-        },
-        "stars": 74476,
-        "downloads": 136791740
-    },
-    {
-        "id": "esbuild",
-        "name": "esbuild",
-        "description": "An extremely fast bundler for the web",
-        "category": {
-            "main": "Build Package",
-            "children": "build"
-        },
-        "packageName": "esbuild",
-        "github": "https://github.com/evanw/esbuild",
-        "npm": "https://www.npmjs.com/package/esbuild",
-        "website": "https://esbuild.github.io/",
-        "author": {
-            "name": "Evan Wallace",
-            "url": "https://github.com/evanw"
-        },
-        "stars": 39173,
-        "downloads": 275276757
-    },
-    {
-        "id": "unbuild",
-        "name": "unbuild",
-        "description": "📦 A unified JavaScript build system",
-        "category": {
-            "main": "Build Package",
-            "children": "build"
-        },
-        "packageName": "unbuild",
-        "github": "https://github.com/unjs/unbuild",
-        "npm": "https://www.npmjs.com/package/unbuild",
-        "website": "https://github.com/unjs/unbuild",
-        "author": {
-            "name": "UnJS",
-            "url": "https://github.com/unjs"
-        },
-        "stars": 2642,
-        "downloads": 754102
-    },
-    {
-        "id": "rollup",
-        "name": "rollup",
-        "description": "Next-generation ES module bundler",
-        "category": {
-            "main": "Build Package",
-            "children": "build"
-        },
-        "packageName": "rollup",
-        "github": "https://github.com/rollup/rollup",
-        "npm": "https://www.npmjs.com/package/rollup",
-        "website": "https://rollupjs.org/",
-        "author": {
-            "name": "Rollup",
-            "url": "https://github.com/rollup"
-        },
-        "stars": 25910,
-        "downloads": 183960907
-    },
-    {
-        "id": "rolldown",
-        "name": "rolldown",
-        "description": "Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.",
-        "category": {
-            "main": "Build Package",
-            "children": "build"
-        },
-        "packageName": "rolldown",
-        "github": "https://github.com/rolldown/rolldown",
-        "npm": "https://www.npmjs.com/package/rolldown",
-        "website": "https://rolldown.rs/",
-        "author": {
-            "name": "Rolldown",
-            "url": "https://github.com/rolldown/"
-        },
-        "stars": 11715,
-        "downloads": 992988
-    },
-    {
-        "id": "tsup",
-        "name": "tsup",
-        "description": "The simplest and fastest way to bundle your TypeScript libraries.",
-        "category": {
-            "main": "Build Package",
-            "children": "build"
-        },
-        "packageName": "tsup",
-        "github": "https://github.com/egoist/tsup",
-        "npm": "https://www.npmjs.com/package/tsup",
-        "website": "https://tsup.egoist.dev/",
-        "author": {
-            "name": "egoist",
-            "url": "https://github.com/egoist"
-        },
-        "stars": 10601,
-        "downloads": 9157904
-    },
-    {
-        "id": "tsdown",
-        "name": "tsdown",
-        "description": "The elegant bundler for libraries powered by Rolldown",
-        "category": {
-            "main": "Build Package",
-            "children": "build"
-        },
-        "packageName": "tsdown",
-        "github": "https://github.com/rolldown/tsdown",
-        "npm": "https://www.npmjs.com/package/tsdown",
-        "website": "https://tsdown.dev/",
-        "author": {
-            "name": "sxzz <Kevin Deng>",
-            "url": "https://github.com/sxzz"
-        },
-        "stars": 2076,
-        "downloads": 298612
-    },
-    {
-        "id": "parcel",
-        "name": "parcel",
-        "description": "The zero configuration build tool for the web. 📦🚀",
-        "category": {
-            "main": "Build Package",
-            "children": "build"
-        },
-        "packageName": "parcel",
-        "github": "https://github.com/parcel-bundler/parcel",
-        "npm": "https://www.npmjs.com/package/parcel",
-        "website": "https://parceljs.org/",
-        "author": {
-            "name": "Parcel",
-            "url": "https://github.com/parcel-bundler"
-        },
-        "stars": 43914,
-        "downloads": 1140909
-    },
-    {
-        "id": "turborepo",
-        "name": "turborepo",
-        "description": "Build system optimized for JavaScript and TypeScript, written in Rust",
-        "category": {
-            "main": "Build Package",
-            "children": "build"
-        },
-        "packageName": "turbo",
-        "github": "https://github.com/vercel/turborepo",
-        "npm": "https://www.npmjs.com/package/turbo",
-        "website": "https://turborepo.com/",
-        "author": {
-            "name": "Vercel",
-            "url": "https://github.com/vercel"
-        },
-        "stars": 28312,
-        "downloads": 20100499
-    },
-    {
-        "id": "Rspack",
-        "name": "Rspack",
-        "description": "The fast Rust-based web bundler with webpack-compatible API 🦀️",
-        "category": {
-            "main": "Build Package",
-            "children": "web infra dev"
-        },
-        "packageName": "@rspack/core",
-        "github": "https://github.com/web-infra-dev/rspack",
-        "npm": "https://www.npmjs.com/package/@rspack/core",
-        "website": "https://rspack.rs/",
-        "author": {
-            "name": "Web Infra",
-            "url": "https://github.com/web-infra-dev"
-        },
-        "stars": 11806,
-        "downloads": 7255904
-    },
-    {
-        "id": "Rsbuild",
-        "name": "Rsbuild",
-        "description": "A zero-config, instant build tool powered by Rspack.",
-        "category": {
-            "main": "Build Package",
-            "children": "web infra dev"
-        },
-        "packageName": "@rsbuild/core",
-        "github": "https://github.com/web-infra-dev/rsbuild",
-        "npm": "https://www.npmjs.com/package/@rsbuild/core",
-        "website": "https://rsbuild.rs/",
-        "author": {
-            "name": "Web Infra",
-            "url": "https://github.com/web-infra-dev"
-        },
-        "stars": 2764,
-        "downloads": 1521915
-    },
-    {
-        "id": "Rslib",
-        "name": "Rslib",
-        "description": "Create JavaScript libraries in a simple and intuitive way.",
-        "category": {
-            "main": "Build Package",
-            "children": "web infra dev"
-        },
-        "packageName": "@rslib/core",
-        "github": "https://github.com/web-infra-dev/rslib",
-        "npm": "https://www.npmjs.com/package/@rslib/core",
-        "website": "https://rslib.rs/",
-        "author": {
-            "name": "Web Infra",
-            "url": "https://github.com/web-infra-dev"
-        },
-        "stars": 883,
-        "downloads": 206523
-    },
-    {
-        "id": "iconify",
-        "name": "iconify",
-        "description": "Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SVG framework, React, Vue and Svelte components!",
-        "category": {
-            "main": "icon",
-            "children": "icon"
-        },
-        "packageName": "@iconify/vue",
-        "github": "https://github.com/iconify/iconify",
-        "npm": "https://www.npmjs.com/package/@iconify/vue",
-        "website": "https://icon-sets.iconify.design/",
-        "author": {
-            "name": "Vjacheslav Trushkin",
-            "url": "https://github.com/cyberalien"
-        },
-        "stars": 5335,
-        "downloads": 1185478
-    },
-    {
-        "id": "Icons",
-        "name": "Icons",
-        "description": "免费获取图标，适用于平面设计、用户界面、社交媒体和移动端。搜索风格统一的静态图标和动态图标。格式有PNG、SVG、GIF和AE。",
-        "category": {
-            "main": "icon",
-            "children": "icon"
-        },
-        "website": "https://igoutu.cn/icons/",
-        "stars": 0,
-        "downloads": 0
-    },
-    {
-        "id": "CSS Symbols",
-        "name": "CSS Symbols",
-        "description": "700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.",
-        "category": {
-            "main": "icon",
-            "children": "icon"
-        },
-        "github": "https://github.com/astrit/css.gg",
-        "website": "https://css.gg/",
-        "author": {
-            "name": "astrit",
-            "url": "https://github.com/astrit"
-        },
-        "stars": 9863,
-        "downloads": 0
-    },
-    {
-        "id": "Lucide Icon",
-        "name": "lucide",
-        "description": "Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.",
-        "category": {
-            "main": "icon",
-            "children": "icon"
-        },
-        "packageName": "lucide",
-        "github": "https://github.com/lucide-icons/lucide",
-        "npm": "https://www.npmjs.com/package/lucide",
-        "website": "https://lucide.dev/icons/",
-        "author": {
-            "name": "Lucide",
-            "url": "https://github.com/lucide-icons"
-        },
-        "stars": 18373,
-        "downloads": 371000
-    },
-    {
-        "id": "Simple Icon",
-        "name": "simple-icons",
-        "description": "SVG icons for popular brands",
-        "category": {
-            "main": "icon",
-            "children": "icon"
-        },
-        "packageName": "simple-icons",
-        "github": "https://github.com/simple-icons/simple-icons",
-        "npm": "https://www.npmjs.com/package/simple-icons",
-        "website": "https://simpleicons.org/",
-        "author": {
-            "name": "Simple Icons",
-            "url": "https://github.com/simple-icons"
-        },
-        "stars": 23125,
-        "downloads": 385087
-    },
-    {
-        "id": "Feather Icon",
-        "name": "feather",
-        "description": "Simply beautiful open-source icons",
-        "category": {
-            "main": "icon",
-            "children": "icon"
-        },
-        "packageName": "feather-icons",
-        "github": "https://github.com/feathericons/feather",
-        "npm": "https://www.npmjs.com/package/feather-icons",
-        "website": "https://feathericons.com/",
-        "author": {
-            "name": "Feather",
-            "url": "https://github.com/feathericons"
-        },
-        "stars": 25566,
-        "downloads": 454266
-    },
-    {
-        "id": "Font Awesome",
-        "name": "Font-Awesome",
-        "description": "The iconic SVG, font, and CSS toolkit",
-        "category": {
-            "main": "icon",
-            "children": "icon"
-        },
-        "packageName": "@fortawesome/vue-fontawesome",
-        "github": "https://github.com/FortAwesome/Font-Awesome",
-        "npm": "https://www.npmjs.com/package/@fortawesome/vue-fontawesome",
-        "website": "https://fontawesome.com",
-        "author": {
-            "name": "Font Awesome",
-            "url": "https://github.com/FortAwesome"
-        },
-        "stars": 75515,
-        "downloads": 1348543
-    },
-    {
-        "id": "Yesicon",
-        "name": "Yesicon",
-        "description": "214 icon sets with 270k+ icons, search across icon sets in multiple languages, rich filtering by type and style, quick customization of icon colors, sizes and code styles, one-click copy and download for developers and designers",
-        "category": {
-            "main": "icon",
-            "children": "icon"
-        },
-        "github": "https://github.com/rotick/yesicon-forum",
-        "website": "https://yesicon.app/",
-        "author": {
-            "name": "rotick",
-            "url": "https://github.com/rotick"
-        },
-        "stars": 25,
-        "downloads": 0
-    },
-    {
-        "id": "Svgl",
-        "name": "Svgl",
-        "description": "🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.",
-        "category": {
-            "main": "icon",
-            "children": "icon"
-        },
-        "github": "https://github.com/pheralb/svgl",
-        "website": "https://svgl.app/",
-        "author": {
-            "name": "Pablo Hdez",
-            "url": "https://github.com/pheralb"
-        },
-        "stars": 4783,
-        "downloads": 0
-    },
-    {
-        "id": "Icon Font",
-        "name": "Icon Font",
-        "description": "iconfont-国内功能很强大且图标内容很丰富的矢量图标库，提供矢量图标下载、在线存储、格式转换等功能。阿里巴巴体验团队倾力打造，设计和前端开发的便捷工具",
-        "category": {
-            "main": "icon",
-            "children": "icon"
-        },
-        "github": "https://github.com/thx/iconfont-plus",
-        "website": "https://www.iconfont.cn/",
-        "author": {
-            "name": "THX",
-            "url": "https://github.com/thx"
-        },
-        "stars": 470,
-        "downloads": 0
-    },
-    {
-        "id": "Scroll Reveal",
-        "name": "Scroll Reveal",
-        "description": "Animate elements as they scroll into view",
-        "category": {
-            "main": "Animation",
-            "children": "Animation"
-        },
-        "packageName": "scrollreveal",
-        "github": "https://github.com/jlmakes/scrollreveal",
-        "npm": "https://www.npmjs.com/package/scrollreveal",
-        "website": "https://scrollrevealjs.org/",
-        "author": {
-            "name": "jlmakes",
-            "url": "https://github.com/jlmakes"
-        },
-        "stars": 22518,
-        "downloads": 45660
-    },
-    {
-        "id": "Scroll Magic",
-        "name": "Scroll Magic",
-        "description": "The javascript library for magical scroll interactions.",
-        "category": {
-            "main": "Animation",
-            "children": "Animation"
-        },
-        "packageName": "scrollmagic",
-        "github": "https://github.com/janpaepke/ScrollMagic",
-        "npm": "https://www.npmjs.com/package/scrollmagic",
-        "website": "https://scrollmagic.io/",
-        "author": {
-            "name": "Jan Paepke",
-            "url": "https://github.com/janpaepke"
-        },
-        "stars": 14957,
-        "downloads": 141902
-    },
-    {
-        "id": "Rellax",
-        "name": "Rellax",
-        "description": "Lightweight, vanilla javascript parallax library",
-        "category": {
-            "main": "Animation",
-            "children": "Animation"
-        },
-        "packageName": "rellax",
-        "github": "https://github.com/dixonandmoe/rellax",
-        "npm": "https://www.npmjs.com/package/rellax",
-        "website": "https://github.com/dixonandmoe/rellax",
-        "author": {
-            "name": "Moe Amaya",
-            "url": "https://github.com/moeamaya"
-        },
-        "stars": 7144,
-        "downloads": 71390
-    },
-    {
-        "id": "Animate.css",
-        "name": "Animate.css",
-        "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.",
-        "category": {
-            "main": "Animation",
-            "children": "Animation"
-        },
-        "packageName": "animate.css",
-        "github": "https://github.com/animate-css/animate.css",
-        "npm": "https://www.npmjs.com/package/animate.css",
-        "website": "https://animate.style/",
-        "author": {
-            "name": "Waren Gonzaga",
-            "url": "https://github.com/warengonzaga"
-        },
-        "stars": 82000,
-        "downloads": 1870781
-    },
-    {
-        "id": "Animate On Scroll",
-        "name": "Animate On Scroll",
-        "description": "Animate on scroll library",
-        "category": {
-            "main": "Animation",
-            "children": "Animation"
-        },
-        "packageName": "aos",
-        "github": "https://github.com/michalsnik/aos",
-        "npm": "https://www.npmjs.com/package/aos",
-        "website": "https://michalsnik.github.io/aos/",
-        "author": {
-            "name": "Michał Sajnóg",
-            "url": "https://github.com/michalsnik"
-        },
-        "stars": 27757,
-        "downloads": 813680
-    },
-    {
-        "id": "Wow.js",
-        "name": "Wow.js",
-        "description": "Reveal CSS animation as you scroll down a page",
-        "category": {
-            "main": "Animation",
-            "children": "Animation"
-        },
-        "packageName": "wow.js",
-        "github": "https://github.com/graingert/wow",
-        "npm": "https://www.npmjs.com/package/wow.js",
-        "website": "https://wowjs.uk/",
-        "author": {
-            "name": "Thomas Grainger",
-            "url": "https://github.com/graingert"
-        },
-        "stars": 1677,
-        "downloads": 28134
-    },
-    {
-        "id": "Three.js",
-        "name": "Three.js",
-        "description": "JavaScript 3D Library.",
-        "category": {
-            "main": "Animation",
-            "children": "Animation"
-        },
-        "packageName": "three",
-        "github": "https://github.com/mrdoob/three.js",
-        "npm": "https://www.npmjs.com/package/three",
-        "website": "https://threejs.org/",
-        "author": {
-            "name": "mrdoob",
-            "url": "https://github.com/mrdoob"
-        },
-        "stars": 107884,
-        "downloads": 9012686
-    },
-    {
-        "id": "GSAP",
-        "name": "GSAP",
-        "description": "GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web",
-        "category": {
-            "main": "Animation",
-            "children": "Animation"
-        },
-        "packageName": "gsap",
-        "github": "https://github.com/greensock/GSAP",
-        "npm": "https://www.npmjs.com/package/gsap",
-        "website": "https://gsap.com/docs/v3/GSAP/",
-        "author": {
-            "name": "GreenSock",
-            "url": "https://github.com/greensock"
-        },
-        "stars": 22549,
-        "downloads": 3419214
-    },
-    {
-        "id": "lottie-web",
-        "name": "lottie-web",
-        "description": "Render After Effects animations natively on Web, Android and iOS, and React",
-        "category": {
-            "main": "Animation",
-            "children": "Animation"
-        },
-        "packageName": "lottie-web",
-        "github": "https://github.com/airbnb/lottie-web",
-        "npm": "https://www.npmjs.com/package/lottie-web",
-        "website": "https://github.com/airbnb/lottie-web",
-        "author": {
-            "name": "Airbnb",
-            "url": "https://github.com/airbnb"
-        },
-        "stars": 31305,
-        "downloads": 11846800
-    },
-    {
-        "id": "Sass / SCSS",
-        "name": "Sass / SCSS",
-        "description": "The reference implementation of Sass, written in Dart",
-        "category": {
-            "main": "css",
-            "children": "css"
-        },
-        "packageName": "sass",
-        "github": "https://github.com/sass/dart-sass",
-        "npm": "https://www.npmjs.com/package/sass",
-        "website": "https://sass-lang.com/",
-        "author": {
-            "name": "Sass",
-            "url": "https://github.com/sass"
-        },
-        "stars": 4109,
-        "downloads": 76562405
-    },
-    {
-        "id": "PostCSS",
-        "name": "PostCSS",
-        "description": "Transforming styles with JS plugins",
-        "category": {
-            "main": "css",
-            "children": "css"
-        },
-        "packageName": "postcss",
-        "github": "https://github.com/postcss/postcss",
-        "npm": "https://www.npmjs.com/package/postcss",
-        "website": "https://postcss.org/",
-        "author": {
-            "name": "ai",
-            "url": "https://github.com/ai"
-        },
-        "stars": 28828,
-        "downloads": 451565566
-    },
-    {
-        "id": "CSS Modules",
-        "name": "CSS Modules",
-        "description": "Documentation about css-modules",
-        "category": {
-            "main": "css",
-            "children": "css"
-        },
-        "packageName": "css-modules",
-        "github": "https://github.com/css-modules/css-modules",
-        "npm": "https://www.npmjs.com/package/css-modules",
-        "website": "https://github.com/css-modules",
-        "author": {
-            "name": "css-modules",
-            "url": "https://github.com/css-modules"
-        },
-        "stars": 17904,
-        "downloads": 7836
-    },
-    {
-        "id": "UnoCSS",
-        "name": "UnoCSS",
-        "description": "The instant on-demand atomic CSS engine",
-        "category": {
-            "main": "css",
-            "children": "css"
-        },
-        "packageName": "unocss",
-        "github": "https://github.com/unocss/unocss",
-        "npm": "https://www.npmjs.com/package/unocss",
-        "website": "https://unocss.dev/",
-        "author": {
-            "name": "Anthony Fu",
-            "url": "https://github.com/antfu"
-        },
-        "stars": 17950,
-        "downloads": 909160
-    },
-    {
-        "id": "Less",
-        "name": "Less",
-        "description": "Less. The dynamic stylesheet language",
-        "category": {
-            "main": "css",
-            "children": "css"
-        },
-        "packageName": "less",
-        "github": "https://github.com/less/less.js",
-        "npm": "https://www.npmjs.com/package/less",
-        "website": "https://lesscss.org/",
-        "author": {
-            "name": "Less",
-            "url": "https://github.com/less"
-        },
-        "stars": 17050,
-        "downloads": 33713457
-    },
-    {
-        "id": "Aceternity UI",
-        "name": "Aceternity UI",
-        "description": "Beautiful Tailwind CSS and Framer Motion Components, built with Next.js and TypeScript.",
-        "category": {
-            "main": "css",
-            "children": "tailwind css"
-        },
-        "website": "https://ui.aceternity.com/",
-        "author": {
-            "name": "Manu Arora",
-            "url": "https://github.com/manuarora700"
-        },
-        "stars": 0,
-        "downloads": 0
-    },
-    {
-        "id": "Volt",
-        "name": "Volt",
-        "description": "Build your own UI library with the flexibility of Tailwind CSS and the convenience of PrimeVue components",
-        "category": {
-            "main": "css",
-            "children": "tailwind css"
-        },
-        "packageName": "volt-vue",
-        "github": "https://github.com/primefaces/primevue",
-        "npm": "https://www.npmjs.com/package/volt-vue",
-        "website": "https://volt.primevue.org/",
-        "author": {
-            "name": "PrimeTek",
-            "url": "https://github.com/primefaces"
-        },
-        "stars": 13108,
-        "downloads": 736
-    },
-    {
-        "id": "Magic UI",
-        "name": "Magic UI",
-        "description": "UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.",
-        "category": {
-            "main": "css",
-            "children": "tailwind css"
-        },
-        "github": "https://github.com/magicuidesign/magicui",
-        "website": "https://magicui.design/",
-        "author": {
-            "name": "Beau Hayes-Pollard",
-            "url": "https://github.com/beaubhp"
-        },
-        "stars": 18128,
-        "downloads": 0
-    },
-    {
-        "id": "Tailwind Plus",
-        "name": "Tailwind Plus",
-        "description": "Beautiful UI components and templates by the creators of Tailwind CSS.",
-        "category": {
-            "main": "css",
-            "children": "tailwind css"
-        },
-        "packageName": "tailwindcss",
-        "github": "https://github.com/tailwindlabs/tailwindcss",
-        "npm": "https://www.npmjs.com/package/tailwindcss",
-        "website": "https://tailwindcss.com/plus",
-        "author": {
-            "name": "Tailwind Labs",
-            "url": "https://github.com/tailwindlabs"
-        },
-        "stars": 89342,
-        "downloads": 87664939
-    },
-    {
-        "id": "Preline UI",
-        "name": "Preline UI",
-        "description": "Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.",
-        "category": {
-            "main": "css",
-            "children": "tailwind css"
-        },
-        "packageName": "preline",
-        "github": "https://github.com/htmlstreamofficial/preline",
-        "npm": "http://npmjs.com/package/preline",
-        "website": "https://preline.co/",
-        "author": {
-            "name": "Html Stream",
-            "url": "https://github.com/htmlstreamofficial"
-        },
-        "stars": 5723,
-        "downloads": 145273
-    },
-    {
-        "id": "Shadcn-vue",
-        "name": "Shadcn Vue",
-        "description": "Vue port of shadcn-ui",
-        "category": {
-            "main": "css",
-            "children": "tailwind css"
-        },
-        "packageName": "shadcn-vue",
-        "github": "https://github.com/unovue/shadcn-vue",
-        "npm": "https://www.npmjs.com/package/shadcn-vue",
-        "website": "https://www.shadcn-vue.com/",
-        "author": {
-            "name": "unovue",
-            "url": "https://github.com/unovue"
-        },
-        "stars": 7880,
-        "downloads": 41139
-    },
-    {
-        "id": "Flowbite",
-        "name": "Flowbite",
-        "description": "Open-source UI component library and front-end development framework based on Tailwind CSS",
-        "category": {
-            "main": "css",
-            "children": "tailwind css"
-        },
-        "packageName": "flowbite",
-        "github": "https://github.com/themesberg/flowbite",
-        "npm": "https://www.npmjs.com/package/flowbite",
-        "website": "https://flowbite.com/",
-        "author": {
-            "name": "Themesberg",
-            "url": "https://github.com/themesberg"
-        },
-        "stars": 8728,
-        "downloads": 1751480
-    },
-    {
-        "id": "Daisy UI",
-        "name": "Daisy UI",
-        "description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
-        "category": {
-            "main": "css",
-            "children": "tailwind css"
-        },
-        "packageName": "daisyui",
-        "github": "https://github.com/saadeghi/daisyui",
-        "npm": "https://www.npmjs.com/package/daisyui",
-        "website": "https://daisyui.com/",
-        "author": {
-            "name": "Pouya Saadeghi",
-            "url": "https://github.com/saadeghi"
-        },
-        "stars": 38122,
-        "downloads": 1900072
-    },
-    {
-        "id": "Float UI",
-        "name": "Float UI",
-        "description": "Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.",
-        "category": {
-            "main": "css",
-            "children": "tailwind css"
-        },
-        "github": "https://github.com/MarsX-dev/floatui",
-        "website": "https://floatui.com/",
-        "author": {
-            "name": "MarsX",
-            "url": "https://github.com/MarsX-dev"
-        },
-        "stars": 3511,
-        "downloads": 0
-    },
-    {
-        "id": "flyonui",
-        "name": "Flyon UI",
-        "description": "🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.",
-        "category": {
-            "main": "css",
-            "children": "tailwind css"
-        },
-        "packageName": "flyonui",
-        "github": "https://github.com/themeselection/flyonui",
-        "npm": "https://www.npmjs.com/package/flyonui",
-        "website": "https://flyonui.com/",
-        "author": {
-            "name": "ThemeSelection",
-            "url": "https://github.com/themeselection"
-        },
-        "stars": 2099,
-        "downloads": 11299
-    },
-    {
-        "id": "merakiui",
-        "name": "Merak UI",
-        "description": "Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.",
-        "category": {
-            "main": "css",
-            "children": "tailwind css"
-        },
-        "github": "https://github.com/merakiuilabs/merakiui",
-        "website": "https://merakiui.com/",
-        "author": {
-            "name": "Meraki UI Labs",
-            "url": "https://github.com/merakiuilabs"
-        },
-        "stars": 2637,
-        "downloads": 0
-    },
-    {
-        "id": "tailgrids",
-        "name": "Tail Grids",
-        "description": "Tailwind CSS UI library, featuring over 600 top-tier Tailwind CSS UI components and blocks. Each one is handcrafted for modern websites, landing pages, web applications, dashboards, ecommerce platforms, and more.",
-        "category": {
-            "main": "css",
-            "children": "tailwind css"
-        },
-        "packageName": "tailgrids",
-        "github": "https://github.com/TailGrids/tailwind-ui-components",
-        "npm": "https://www.npmjs.com/package/tailgrids",
-        "website": "https://tailgrids.com/",
-        "author": {
-            "name": "Musharof Chowdhury",
-            "url": "https://github.com/Musharofchy"
-        },
-        "stars": 1361,
-        "downloads": 14521
-    },
-    {
-        "id": "vuejs",
-        "name": "vuejs",
-        "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
-        "category": {
-            "main": "vue",
-            "children": "framework"
-        },
-        "packageName": "vue",
-        "github": "https://github.com/vuejs/core",
-        "npm": "https://www.npmjs.com/package/vue",
-        "website": "https://vuejs.org/",
-        "author": {
-            "name": "Evan You",
-            "url": "https://github.com/yyx990803"
-        },
-        "stars": 51122,
-        "downloads": 28844432
-    },
-    {
-        "id": "vue router",
-        "name": "Vue Router",
-        "description": "🚦 The official router for Vue.js",
-        "category": {
-            "main": "vue",
-            "children": "Router"
-        },
-        "packageName": "vue-router",
-        "github": "https://github.com/vuejs/router",
-        "npm": "https://www.npmjs.com/package/vue-router",
-        "website": "https://router.vuejs.org/",
-        "author": {
-            "name": "posva",
-            "url": "https://github.com/posva"
-        },
-        "stars": 4323,
-        "downloads": 16963218
-    },
-    {
-        "id": "unplugin-vue-router",
-        "name": "unplugin-vue-router",
-        "description": "Next Generation file based typed routing for Vue Router",
-        "category": {
-            "main": "vue",
-            "children": "Router"
-        },
-        "packageName": "unplugin-vue-router",
-        "github": "https://github.com/posva/unplugin-vue-router",
-        "npm": "https://www.npmjs.com/package/unplugin-vue-router",
-        "website": "https://uvr.esm.is/",
-        "author": {
-            "name": "posva",
-            "url": "https://github.com/posva"
-        },
-        "stars": 2063,
-        "downloads": 3428232
-    },
-    {
-        "id": "Pinia",
-        "name": "Pinia",
-        "description": "🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support",
-        "category": {
-            "main": "vue",
-            "children": "state management"
-        },
-        "packageName": "pinia",
-        "github": "https://github.com/vuejs/pinia",
-        "npm": "https://www.npmjs.com/package/pinia",
-        "website": "https://pinia.vuejs.org/",
-        "author": {
-            "name": "posva",
-            "url": "https://github.com/posva"
-        },
-        "stars": 14081,
-        "downloads": 9141891
-    },
-    {
-        "id": "Vuex",
-        "name": "Vuex",
-        "description": "🗃️ Centralized State Management for Vue.js.",
-        "category": {
-            "main": "vue",
-            "children": "state management"
-        },
-        "packageName": "vuex",
-        "github": "https://github.com/vuejs/vuex",
-        "npm": "https://www.npmjs.com/package/vuex",
-        "website": "https://vuex.vuejs.org/",
-        "author": {
-            "name": "Evan You",
-            "url": "https://github.com/yyx990803"
-        },
-        "stars": 28445,
-        "downloads": 7205870
-    },
-    {
-        "id": "pinia-plugin-persistedstate",
-        "name": "Pinia Plugin Persistedstate",
-        "description": "💾 Configurable persistence and rehydration of Pinia stores",
-        "category": {
-            "main": "vue",
-            "children": "state management"
-        },
-        "packageName": "pinia-plugin-persistedstate",
-        "github": "https://github.com/prazdevs/pinia-plugin-persistedstate",
-        "npm": "https://www.npmjs.com/package/pinia-plugin-persistedstate",
-        "website": "https://prazdevs.github.io/pinia-plugin-persistedstate/",
-        "author": {
-            "name": "praz",
-            "url": "https://github.com/prazdevs"
-        },
-        "stars": 2447,
-        "downloads": 1350421
-    },
-    {
-        "id": "vue-i18n",
-        "name": "Vue I18n",
-        "description": "Vue I18n for Vue 3",
-        "category": {
-            "main": "vue",
-            "children": "Internationalization"
-        },
-        "packageName": "vue-i18n",
-        "github": "https://github.com/intlify/vue-i18n",
-        "npm": "https://www.npmjs.com/package/vue-i18n",
-        "website": "https://vue-i18n.intlify.dev/",
-        "author": {
-            "name": "intlify",
-            "url": "https://github.com/intlify"
-        },
-        "stars": 2500,
-        "downloads": 7474396
-    },
-    {
-        "id": "voerkai18n",
-        "name": "voerkai18n",
-        "description": "Nodejs/Vue/React International solutions",
-        "category": {
-            "main": "vue",
-            "children": "Internationalization"
-        },
-        "packageName": "@voerkai18n/vue",
-        "github": "https://github.com/zhangfisher/voerka-i18n",
-        "npm": "https://www.npmjs.com/package/@voerkai18n/vue",
-        "website": "https://zhangfisher.github.io/voerka-i18n/",
-        "author": {
-            "name": "zhangfisher",
-            "url": "https://github.com/zhangfisher"
-        },
-        "stars": 211,
-        "downloads": 164
-    },
-    {
-        "id": "eslint-plugin-vue",
-        "name": "ESLint Plugin Vue",
-        "description": "Official ESLint plugin for Vue.js",
-        "category": {
-            "main": "vue",
-            "children": "development tools"
-        },
-        "packageName": "eslint-plugin-vue",
-        "github": "https://github.com/vuejs/eslint-plugin-vue",
-        "npm": "https://www.npmjs.com/package/eslint-plugin-vue",
-        "website": "https://eslint.vuejs.org/",
-        "author": {
-            "name": "Vue",
-            "url": "https://github.com/vuejs"
-        },
-        "stars": 4555,
-        "downloads": 17238455
-    },
-    {
-        "id": "vite-plugin-vue-devtools",
-        "name": "Vite Plugin Vue DevTools",
-        "description": "⚙️ Browser devtools extension for debugging Vue.js applications.",
-        "category": {
-            "main": "vue",
-            "children": "development tools"
-        },
-        "packageName": "vite-plugin-vue-devtools",
-        "github": "https://github.com/vuejs/devtools",
-        "npm": "https://www.npmjs.com/package/vite-plugin-vue-devtools",
-        "website": "https://devtools.vuejs.org/",
-        "author": {
-            "name": "Arlo",
-            "url": "https://github.com/webfansplz"
-        },
-        "stars": 2488,
-        "downloads": 1928591
-    },
-    {
-        "id": "vue-demi",
-        "name": "Vue Demi",
-        "description": "🎩 Creates Universal Library for Vue 2 & 3",
-        "category": {
-            "main": "vue",
-            "children": "development tools"
-        },
-        "packageName": "vue-demi",
-        "github": "https://github.com/vueuse/vue-demi",
-        "npm": "https://www.npmjs.com/package/vue-demi",
-        "website": "https://github.com/vueuse/vue-demi",
-        "author": {
-            "name": "Anthony Fu",
-            "url": "https://github.com/antfu"
-        },
-        "stars": 3103,
-        "downloads": 18285187
-    },
-    {
-        "id": "vite-plugin-pwa",
-        "name": "Vite PWA",
-        "description": "Zero-config PWA for Vite",
-        "category": {
-            "main": "vue",
-            "children": "development tools"
-        },
-        "packageName": "vite-plugin-pwa",
-        "github": "https://github.com/vite-pwa/vite-plugin-pwa",
-        "npm": "https://www.npmjs.com/package/vite-plugin-pwa",
-        "website": "https://vite-pwa-org.netlify.app/",
-        "author": {
-            "name": "Joaquín Sánchez",
-            "url": "https://github.com/userquin"
-        },
-        "stars": 3695,
-        "downloads": 2611496
-    },
-    {
-        "id": "unplugin-vue-components",
-        "name": "unplugin-vue-components",
-        "description": "📲 On-demand components auto importing for Vue",
-        "category": {
-            "main": "vue",
-            "children": "development tools"
-        },
-        "packageName": "unplugin-vue-components",
-        "github": "https://github.com/unplugin/unplugin-vue-components",
-        "npm": "https://www.npmjs.com/package/unplugin-vue-components",
-        "website": "https://github.com/unplugin/unplugin-vue-components",
-        "author": {
-            "name": "Anthony Fu",
-            "url": "https://github.com/antfu"
-        },
-        "stars": 4127,
-        "downloads": 2341111
-    },
-    {
-        "id": "vue-test-utils",
-        "name": "Vue Test Utils",
-        "description": "Vue Test Utils for Vue 3",
-        "category": {
-            "main": "vue",
-            "children": "testing"
-        },
-        "packageName": "@vue/test-utils",
-        "github": "https://github.com/vuejs/test-utils",
-        "npm": "https://www.npmjs.com/package/@vue/test-utils",
-        "website": "https://test-utils.vuejs.org/",
-        "author": {
-            "name": "Lachlan Miller",
-            "url": "https://github.com/lmiller1990"
-        },
-        "stars": 1108,
-        "downloads": 10272268
-    },
-    {
-        "id": "motion-vue",
-        "name": "motion vue",
-        "description": "Motion for Vue",
-        "category": {
-            "main": "vue",
-            "children": "animation"
-        },
-        "packageName": "motion-v",
-        "github": "https://github.com/motiondivision/motion-vue",
-        "npm": "https://www.npmjs.com/package/motion-v",
-        "website": "https://motion.dev/docs/vue",
-        "author": {
-            "name": "Motion",
-            "url": "https://github.com/motiondivision"
-        },
-        "stars": 1966,
-        "downloads": 161288
-    },
-    {
-        "id": "vue-transitions",
-        "name": "Vue Transitions",
-        "description": "Interface transitions library for Vue 2/3",
-        "category": {
-            "main": "vue",
-            "children": "animation"
-        },
-        "packageName": "@morev/vue-transitions",
-        "github": "https://github.com/MorevM/vue-transitions",
-        "npm": "https://www.npmjs.com/package/@morev/vue-transitions",
-        "website": "https://morevm.github.io/vue-transitions/",
-        "author": {
-            "name": "Maxim Morev",
-            "url": "https://github.com/MorevM"
-        },
-        "stars": 217,
-        "downloads": 22655
-    },
-    {
-        "id": "animated-vue",
-        "name": "Animated Vue",
-        "description": "A plugin to use animate.css animations as Vue2 transitions",
-        "category": {
-            "main": "vue",
-            "children": "animation"
-        },
-        "packageName": "animated-vue",
-        "github": "https://github.com/radical-dreamers/animated-vue",
-        "npm": "https://www.npmjs.com/package/animated-vue",
-        "website": "https://github.com/radical-dreamers/animated-vue",
-        "author": {
-            "name": "Rodrigo Juliani",
-            "url": "https://github.com/dragonautdev"
-        },
-        "stars": 219,
-        "downloads": 78
-    },
-    {
-        "id": "VueLazyTransition",
-        "name": "Vue LazyTransition",
-        "description": "Vue plugin to trigger transitions or callbacks on scroll",
-        "category": {
-            "main": "vue",
-            "children": "animation"
-        },
-        "packageName": "vue-lazy-transition",
-        "github": "https://github.com/Recks11/VueLazyTransition",
-        "npm": "https://www.npmjs.com/package/vue-lazy-transition",
-        "website": "https://github.com/Recks11/VueLazyTransition",
-        "author": {
-            "name": "Rex Ijiekhuamen",
-            "url": "https://github.com/Recks11"
-        },
-        "stars": 3,
-        "downloads": 23
-    },
-    {
-        "id": "@vueuse/core",
-        "name": "Vue Use",
-        "description": "Collection of essential Vue Composition Utilities for Vue 3",
-        "category": {
-            "main": "vue",
-            "children": "util"
-        },
-        "packageName": "@vueuse/core",
-        "github": "https://github.com/vueuse/vueuse",
-        "npm": "https://www.npmjs.com/package/@vueuse/core",
-        "website": "https://vueuse.org/",
-        "author": {
-            "name": "Anthony Fu",
-            "url": "https://github.com/antfu"
-        },
-        "stars": 21449,
-        "downloads": 14004835
-    },
-    {
-        "id": "Vue Icons",
-        "name": "Vue Icons",
-        "description": "A comprehensive collection of icon components from multiple popular icon sets",
-        "category": {
-            "main": "vue",
-            "children": "util"
-        },
-        "packageName": "vue-icons-lib",
-        "github": "https://github.com/obiwanpelosi/vue-icons-package",
-        "npm": "https://www.npmjs.com/package/vue-icons-lib",
-        "website": "https://vueicons.netlify.app/",
-        "author": {
-            "name": "Obiwan Pelosi",
-            "url": "https://github.com/obiwanpelosi"
-        },
-        "stars": 2,
-        "downloads": 65
-    },
-    {
-        "id": "vue-socket.io-extended",
-        "name": "Vue Socket.IO",
-        "description": "✌️⚡ Socket.io bindings for Vue.js and Vuex (inspired by Vue-Socket.io)",
-        "category": {
-            "main": "vue",
-            "children": "util"
-        },
-        "packageName": "vue-socket.io-extended",
-        "github": "https://github.com/probil/vue-socket.io-extended",
-        "npm": "https://www.npmjs.com/package/vue-socket.io-extended",
-        "website": "https://github.com/probil/vue-socket.io-extended",
-        "author": {
-            "name": "Max Liashuk",
-            "url": "https://github.com/probil"
-        },
-        "stars": 625,
-        "downloads": 14164
-    },
-    {
-        "id": "vue3-lazyload",
-        "name": "Vue Lazyload",
-        "description": "A Vue3.x image lazyload plugin",
-        "category": {
-            "main": "vue",
-            "children": "util"
-        },
-        "packageName": "vue3-lazyload",
-        "github": "https://github.com/murongg/vue3-lazyload",
-        "npm": "https://www.npmjs.com/package/vue3-lazyload",
-        "website": "https://github.com/murongg/vue3-lazyload",
-        "author": {
-            "name": "MuRong",
-            "url": "https://github.com/murongg"
-        },
-        "stars": 182,
-        "downloads": 51971
-    },
-    {
-        "id": "vue3-cookies",
-        "name": "Vue Cookies",
-        "description": "A simple Vue.js plugin for handling browser cookies",
-        "category": {
-            "main": "vue",
-            "children": "util"
-        },
-        "packageName": "vue3-cookies",
-        "github": "https://github.com/cmp-cc/vue-cookies",
-        "npm": "https://www.npmjs.com/package/vue3-cookies",
-        "website": "https://github.com/cmp-cc/vue-cookies",
-        "author": {
-            "name": "cmp-cc",
-            "url": "https://github.com/cmp-cc"
-        },
-        "stars": 417,
-        "downloads": 119812
-    },
-    {
-        "id": "vue-clipboard3",
-        "name": "Vue Clipboard 3",
-        "description": "Easily copy to clipboard in Vue 3",
-        "category": {
-            "main": "vue",
-            "children": "util"
-        },
-        "packageName": "vue-clipboard3",
-        "github": "https://github.com/JamieCurnow/vue-clipboard3",
-        "npm": "https://www.npmjs.com/package/vue-clipboard3",
-        "website": "https://github.com/JamieCurnow/vue-clipboard3",
-        "author": {
-            "name": "Jamie Curnow",
-            "url": "https://github.com/JamieCurnow"
-        },
-        "stars": 143,
-        "downloads": 130363
-    },
-    {
-        "id": "vue-gtag",
-        "name": "Vue Gtag",
-        "description": "Global Site Tag plugin for Vue (gtag.js)",
-        "category": {
-            "main": "vue",
-            "children": "util"
-        },
-        "packageName": "vue-gtag",
-        "github": "https://github.com/MatteoGabriele/vue-gtag",
-        "npm": "https://www.npmjs.com/package/vue-gtag",
-        "website": "https://matteo-gabriele.gitbook.io/vue-gtag/",
-        "author": {
-            "name": "Matteo Gabriele",
-            "url": "https://github.com/MatteoGabriele"
-        },
-        "stars": 909,
-        "downloads": 503327
-    },
-    {
-        "id": "vue-virtual-scroller",
-        "name": "Vue Virtual Scroller",
-        "description": "⚡️ Blazing fast scrolling for any amount of data",
-        "category": {
-            "main": "vue",
-            "children": "util"
-        },
-        "packageName": "vue-virtual-scroller",
-        "github": "https://github.com/Akryum/vue-virtual-scroller",
-        "npm": "https://www.npmjs.com/package/vue-virtual-scroller",
-        "website": "https://vue-virtual-scroller-demo.netlify.app/",
-        "author": {
-            "name": "Guillaume Chau",
-            "url": "https://github.com/Akryum"
-        },
-        "stars": 10308,
-        "downloads": 1292370
-    },
-    {
-        "id": "unplugin-auto-import",
-        "name": "unplugin-auto-import",
-        "description": "Auto import APIs on-demand for Vite, Webpack and Rollup",
-        "category": {
-            "main": "vue",
-            "children": "util"
-        },
-        "packageName": "unplugin-auto-import",
-        "github": "https://github.com/antfu/unplugin-auto-import",
-        "npm": "https://www.npmjs.com/package/unplugin-auto-import",
-        "website": "https://github.com/antfu/unplugin-auto-import",
-        "author": {
-            "name": "Anthony Fu",
-            "url": "https://github.com/antfu"
-        },
-        "stars": 3603,
-        "downloads": 1579651
-    },
-    {
-        "id": "vue-observe-visibility",
-        "name": "Vue Observe Visibility",
-        "description": "Detect when an element is becoming visible or hidden on the page.",
-        "category": {
-            "main": "vue",
-            "children": "util"
-        },
-        "packageName": "vue-observe-visibility",
-        "github": "https://github.com/Akryum/vue-observe-visibility",
-        "npm": "https://www.npmjs.com/package/vue-observe-visibility",
-        "website": "https://github.com/Akryum/vue-observe-visibility",
-        "author": {
-            "name": "Guillaume Chau",
-            "url": "https://github.com/Akryum"
-        },
-        "stars": 1649,
-        "downloads": 2044967
-    },
-    {
-        "id": "portal-vue",
-        "name": "Portal Vue",
-        "description": "A feature-rich Portal Plugin for Vue 3, for rendering DOM outside of a component, anywhere in your app or the entire document. (Vue 2 version: v2.portal-vue.linusb.org)",
-        "category": {
-            "main": "vue",
-            "children": "util"
-        },
-        "packageName": "portal-vue",
-        "github": "https://github.com/LinusBorg/portal-vue",
-        "npm": "https://www.npmjs.com/package/portal-vue",
-        "website": "https://portal-vue.linusb.org/",
-        "author": {
-            "name": "Thorsten Lünborg",
-            "url": "https://github.com/LinusBorg"
-        },
-        "stars": 3906,
-        "downloads": 2115349
-    },
-    {
-        "id": "@sentry/vue",
-        "name": "Sentry Vue",
-        "description": "Official Sentry SDK for Vue.js applications with error monitoring, performance tracking, and session replay.",
-        "category": {
-            "main": "vue",
-            "children": "util"
-        },
-        "packageName": "@sentry/vue",
-        "github": "https://github.com/getsentry/sentry-javascript",
-        "npm": "https://www.npmjs.com/package/@sentry/vue",
-        "website": "https://docs.sentry.io/platforms/javascript/guides/vue/",
-        "author": {
-            "name": "Sentry",
-            "url": "https://github.com/getsentry"
-        },
-        "stars": 8353,
-        "downloads": 3417011
-    },
-    {
-        "id": "@unhead/vue",
-        "name": "Vue Meta",
-        "description": "The full stack <head> package for any framework.",
-        "category": {
-            "main": "vue",
-            "children": "util"
-        },
-        "packageName": "@unhead/vue",
-        "github": "https://github.com/unjs/unhead",
-        "npm": "https://www.npmjs.com/package/@unhead/vue",
-        "website": "https://unhead.unjs.io/",
-        "author": {
-            "name": "UnJS",
-            "url": "https://github.com/unjs"
-        },
-        "stars": 1027,
-        "downloads": 4293802
-    },
-    {
-        "id": "vue-draggable-plus",
-        "name": "Vue Draggable Plus",
-        "description": "Universal Drag-and-Drop Component Supporting both Vue 3 and Vue 2",
-        "category": {
-            "main": "vue",
-            "children": "util"
-        },
-        "packageName": "vue-draggable-plus",
-        "github": "https://github.com/Alfred-Skyblue/vue-draggable-plus",
-        "npm": "https://www.npmjs.com/package/vue-draggable-plus",
-        "website": "https://github.com/Alfred-Skyblue/vue-draggable-plus",
-        "author": {
-            "name": "远方os",
-            "url": "https://github.com/Alfred-Skyblue"
-        },
-        "stars": 3723,
-        "downloads": 394404
-    },
-    {
-        "id": "element-plus",
-        "name": "Element Plus",
-        "description": "🎉 A Vue.js 3 UI Library made by Element team",
-        "category": {
-            "main": "vue",
-            "children": "ui framework"
-        },
-        "packageName": "element-plus",
-        "github": "https://github.com/element-plus/element-plus",
-        "npm": "https://www.npmjs.com/package/element-plus",
-        "website": "https://element-plus.org/",
-        "author": {
-            "name": "iamkun",
-            "url": "https://github.com/iamkun"
-        },
-        "stars": 26336,
-        "downloads": 1295263
-    },
-    {
-        "id": "@nuxt/ui",
-        "name": "Nuxt Ui",
-        "description": "The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.",
-        "category": {
-            "main": "vue",
-            "children": "ui framework"
-        },
-        "packageName": "@nuxt/ui",
-        "github": "https://github.com/nuxt/ui",
-        "npm": "https://www.npmjs.com/package/@nuxt/ui",
-        "website": "https://ui.nuxt.com/",
-        "author": {
-            "name": "Benjamin Canac",
-            "url": "https://github.com/benjamincanac"
-        },
-        "stars": 5150,
-        "downloads": 425717
-    },
-    {
-        "id": "primevue",
-        "name": "Prime Vue",
-        "description": "Next Generation Vue UI Component Library",
-        "category": {
-            "main": "vue",
-            "children": "ui framework"
-        },
-        "packageName": "primevue",
-        "github": "https://github.com/primefaces/primevue",
-        "npm": "https://www.npmjs.com/package/primevue",
-        "website": "https://primevue.org/",
-        "author": {
-            "name": "PrimeTek",
-            "url": "https://github.com/primefaces"
-        },
-        "stars": 13108,
-        "downloads": 1538137
-    },
-    {
-        "id": "quasar",
-        "name": "Quasar",
-        "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time",
-        "category": {
-            "main": "vue",
-            "children": "ui framework"
-        },
-        "packageName": "quasar",
-        "github": "https://github.com/quasarframework/quasar",
-        "npm": "https://www.npmjs.com/package/quasar",
-        "website": "https://quasar.dev/",
-        "author": {
-            "name": "Quasar Framework",
-            "url": "https://github.com/quasarframework"
-        },
-        "stars": 26745,
-        "downloads": 693353
-    },
-    {
-        "id": "vuetify",
-        "name": "vuetify",
-        "description": "🐉 Vue Component Framework",
-        "category": {
-            "main": "vue",
-            "children": "ui framework"
-        },
-        "packageName": "vuetify",
-        "github": "https://github.com/vuetifyjs/vuetify",
-        "npm": "https://www.npmjs.com/package/vuetify",
-        "website": "https://vuetifyjs.com",
-        "author": {
-            "name": "Vuetify",
-            "url": "https://github.com/vuetifyjs"
-        },
-        "stars": 40631,
-        "downloads": 2740081
-    },
-    {
-        "id": "reka-ui",
-        "name": "Reka UI",
-        "description": "An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue",
-        "category": {
-            "main": "vue",
-            "children": "ui framework"
-        },
-        "packageName": "reka-ui",
-        "github": "https://github.com/unovue/reka-ui",
-        "npm": "https://www.npmjs.com/package/reka-ui",
-        "website": "https://reka-ui.com/",
-        "author": {
-            "name": "unovue",
-            "url": "https://github.com/unovue"
-        },
-        "stars": 5290,
-        "downloads": 1242635
-    },
-    {
-        "id": "shadcn-vue",
-        "name": "Shadcn Vue UI",
-        "description": "Vue port of shadcn-ui",
-        "category": {
-            "main": "vue",
-            "children": "ui framework"
-        },
-        "packageName": "shadcn-vue",
-        "github": "https://github.com/unovue/shadcn-vue",
-        "npm": "https://www.npmjs.com/package/shadcn-vue",
-        "website": "https://www.shadcn-vue.com/",
-        "author": {
-            "name": "unovue",
-            "url": "https://github.com/unovue"
-        },
-        "stars": 7880,
-        "downloads": 40883
-    },
-    {
-        "id": "naive-ui",
-        "name": "Naive UI",
-        "description": "A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.",
-        "category": {
-            "main": "vue",
-            "children": "ui framework"
-        },
-        "packageName": "naive-ui",
-        "github": "https://github.com/tusen-ai/naive-ui",
-        "npm": "https://www.npmjs.com/package/naive-ui",
-        "website": "https://www.naiveui.com/zh-CN/os-theme",
-        "author": {
-            "name": "tusen-ai",
-            "url": "https://github.com/tusen-ai"
-        },
-        "stars": 17494,
-        "downloads": 179831
-    },
-    {
-        "id": "Daisy UI",
-        "name": "Daisy UI",
-        "description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
-        "category": {
-            "main": "vue",
-            "children": "ui framework"
-        },
-        "packageName": "daisyui",
-        "github": "https://github.com/saadeghi/daisyui",
-        "npm": "https://www.npmjs.com/package/daisyui",
-        "website": "https://daisyui.com/",
-        "author": {
-            "name": "Pouya Saadeghi",
-            "url": "https://github.com/saadeghi"
-        },
-        "stars": 38122,
-        "downloads": 1899143
-    },
-    {
-        "id": "Flowbite",
-        "name": "Flowbite",
-        "description": "Open-source UI component library and front-end development framework based on Tailwind CSS",
-        "category": {
-            "main": "vue",
-            "children": "ui framework"
-        },
-        "packageName": "flowbite",
-        "github": "https://github.com/themesberg/flowbite",
-        "npm": "https://www.npmjs.com/package/flowbite",
-        "website": "https://flowbite.com/",
-        "author": {
-            "name": "Themesberg",
-            "url": "https://github.com/themesberg"
-        },
-        "stars": 8728,
-        "downloads": 1745621
-    },
-    {
-        "id": "ant-design-vue",
-        "name": "Ant Design Vue",
-        "description": "🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜",
-        "category": {
-            "main": "vue",
-            "children": "ui framework"
-        },
-        "packageName": "ant-design-vue",
-        "github": "https://github.com/vueComponent/ant-design-vue",
-        "npm": "https://www.npmjs.com/package/ant-design-vue",
-        "website": "https://antdv.com",
-        "author": {
-            "name": "vueComponent",
-            "url": "https://github.com/vueComponent"
-        },
-        "stars": 20988,
-        "downloads": 400183
-    },
-    {
-        "id": "@ark-ui/vue",
-        "name": "Ark UI",
-        "description": "Build high-quality, accessible design systems design system. Works in React, Svelte, Vue, and Solid",
-        "category": {
-            "main": "vue",
-            "children": "ui framework"
-        },
-        "packageName": "@ark-ui/vue",
-        "github": "https://github.com/chakra-ui/ark",
-        "npm": "https://www.npmjs.com/package/@ark-ui/vue",
-        "website": "https://ark-ui.com/",
-        "author": {
-            "name": "Segun Adebayo",
-            "url": "https://github.com/segunadebayo"
-        },
-        "stars": 4510,
-        "downloads": 22540
-    },
-    {
-        "id": "vuestic-ui",
-        "name": "Vuestic UI",
-        "description": "Vuestic UI is an open-source Vue 3 component library designed for rapid development, easy maintenance, and high accessibility.",
-        "category": {
-            "main": "vue",
-            "children": "ui framework"
-        },
-        "packageName": "vuestic-ui",
-        "github": "https://github.com/epicmaxco/vuestic-ui",
-        "npm": "https://www.npmjs.com/package/vuestic-ui",
-        "website": "https://ui.vuestic.dev/",
-        "author": {
-            "name": "Epicmax",
-            "url": "https://github.com/epicmaxco"
-        },
-        "stars": 3644,
-        "downloads": 10380
-    },
-    {
-        "id": "vite-plugin-pages",
-        "name": "vite-plugin-pages",
-        "description": "File system based route generator for ⚡️Vite",
-        "category": {
-            "main": "vite",
-            "children": "vue plugins"
-        },
-        "packageName": "vite-plugin-pages",
-        "github": "https://github.com/hannoeru/vite-plugin-pages",
-        "npm": "https://www.npmjs.com/package/vite-plugin-pages",
-        "website": "https://github.com/hannoeru/vite-plugin-pages",
-        "author": {
-            "name": "ハン / Han",
-            "url": "https://github.com/hannoeru"
-        },
-        "stars": 2023,
-        "downloads": 255383
-    },
-    {
-        "id": "rollup-plugin-visualizer",
-        "name": "rollup-plugin-visualizer",
-        "description": "📈⚖️ Visuallize your bundle",
-        "category": {
-            "main": "vite",
-            "children": "vue plugins"
-        },
-        "packageName": "rollup-plugin-visualizer",
-        "github": "https://github.com/btd/rollup-plugin-visualizer",
-        "npm": "https://www.npmjs.com/package/rollup-plugin-visualizer",
-        "website": "https://github.com/btd/rollup-plugin-visualizer",
-        "author": {
-            "name": "Denis Bardadym",
-            "url": "https://github.com/btd"
-        },
-        "stars": 2196,
-        "downloads": 10390934
-    },
-    {
-        "id": "vite-plugin-restart",
-        "name": "vite-plugin-restart",
-        "description": "Custom files/globs to restart Vite server",
-        "category": {
-            "main": "vite",
-            "children": "vue plugins"
-        },
-        "packageName": "vite-plugin-restart",
-        "github": "https://github.com/antfu/vite-plugin-restart",
-        "npm": "https://www.npmjs.com/package/vite-plugin-restart",
-        "website": "https://github.com/antfu/vite-plugin-restart",
-        "author": {
-            "name": "Anthony Fu",
-            "url": "https://github.com/antfu"
-        },
-        "stars": 197,
-        "downloads": 131680
-    },
-    {
-        "id": "unplugin-vue-components",
-        "name": "unplugin-vue-components",
-        "description": "📲 On-demand components auto importing for Vue",
-        "category": {
-            "main": "vite",
-            "children": "vue plugins"
-        },
-        "packageName": "unplugin-vue-components",
-        "github": "https://github.com/unplugin/unplugin-vue-components",
-        "npm": "https://www.npmjs.com/package/unplugin-vue-components",
-        "website": "https://github.com/unplugin/unplugin-vue-components",
-        "author": {
-            "name": "Unplugin",
-            "url": "https://github.com/unplugin"
-        },
-        "stars": 4127,
-        "downloads": 2334859
-    },
-    {
-        "id": "vite-plugin-style-import",
-        "name": "vite-plugin-style-import",
-        "description": "A plug-in that imports component library styles on demand.it is fast",
-        "category": {
-            "main": "vite",
-            "children": "vue plugins"
-        },
-        "packageName": "vite-plugin-style-import",
-        "github": "https://github.com/vbenjs/vite-plugin-style-import",
-        "npm": "https://www.npmjs.com/package/vite-plugin-style-import",
-        "website": "https://github.com/vbenjs/vite-plugin-style-import",
-        "author": {
-            "name": "Vben",
-            "url": "https://github.com/anncwb"
-        },
-        "stars": 449,
-        "downloads": 82636
-    },
-    {
-        "id": "unplugin-auto-import",
-        "name": "unplugin-auto-import",
-        "description": "Auto import APIs on-demand for Vite, Webpack and Rollup",
-        "category": {
-            "main": "vite",
-            "children": "vue plugins"
-        },
-        "packageName": "unplugin-auto-import",
-        "github": "https://github.com/unplugin/unplugin-auto-import",
-        "npm": "https://www.npmjs.com/package/unplugin-auto-import",
-        "website": "https://github.com/unplugin/unplugin-auto-import",
-        "author": {
-            "name": "Unplugin",
-            "url": "https://github.com/unplugin"
-        },
-        "stars": 3604,
-        "downloads": 1576348
-    },
-    {
-        "id": "vite-plugin-svg-icons",
-        "name": "vite-plugin-svg-icons",
-        "description": "Vite Plugin for fast creating SVG sprites",
-        "category": {
-            "main": "vite",
-            "children": "vue plugins"
-        },
-        "packageName": "vite-plugin-svg-icons",
-        "github": "https://github.com/vbenjs/vite-plugin-svg-icons",
-        "npm": "https://www.npmjs.com/package/vite-plugin-svg-icons",
-        "website": "https://github.com/vbenjs/vite-plugin-svg-icons",
-        "author": {
-            "name": "Vben",
-            "url": "https://github.com/anncwb"
-        },
-        "stars": 907,
-        "downloads": 187004
-    },
-    {
-        "id": "vite-plugin-html",
-        "name": "vite-plugin-html",
-        "description": "A vite plugin for processing html. It is developed based on lodash template",
-        "category": {
-            "main": "vite",
-            "children": "vue plugins"
-        },
-        "packageName": "vite-plugin-html",
-        "github": "https://github.com/vbenjs/vite-plugin-html",
-        "npm": "https://www.npmjs.com/package/vite-plugin-html",
-        "website": "https://github.com/vbenjs/vite-plugin-html",
-        "author": {
-            "name": "Vben",
-            "url": "https://github.com/anncwb"
-        },
-        "stars": 663,
-        "downloads": 1424741
-    },
-    {
-        "id": "vite-plugin-compression",
-        "name": "vite-plugin-compression",
-        "description": "Use gzip or brotli to compress resources",
-        "category": {
-            "main": "vite",
-            "children": "vue plugins"
-        },
-        "packageName": "vite-plugin-compression",
-        "github": "https://github.com/vbenjs/vite-plugin-compression",
-        "npm": "https://www.npmjs.com/package/vite-plugin-compression",
-        "website": "https://github.com/vbenjs/vite-plugin-compression",
-        "author": {
-            "name": "Vben",
-            "url": "https://github.com/anncwb"
-        },
-        "stars": 438,
-        "downloads": 886371
-    },
-    {
-        "id": "vite-plugin-imagemin",
-        "name": "vite-plugin-imagemin",
-        "description": "A vite plugin for compressing image assets.",
-        "category": {
-            "main": "vite",
-            "children": "vue plugins"
-        },
-        "packageName": "vite-plugin-imagemin",
-        "github": "https://github.com/vbenjs/vite-plugin-imagemin",
-        "npm": "https://www.npmjs.com/package/vite-plugin-imagemin",
-        "website": "https://github.com/vbenjs/vite-plugin-imagemin",
-        "author": {
-            "name": "Vben",
-            "url": "https://github.com/anncwb"
-        },
-        "stars": 246,
-        "downloads": 73098
-    },
-    {
-        "id": "vite-plugin-purge-icons",
-        "name": "vite-plugin-purge-icons",
-        "description": "🎐 Bundles icons on demand",
-        "category": {
-            "main": "vite",
-            "children": "vue plugins"
-        },
-        "packageName": "vite-plugin-purge-icons",
-        "github": "https://github.com/antfu/purge-icons",
-        "npm": "https://www.npmjs.com/package/vite-plugin-purge-icons",
-        "website": "https://github.com/antfu/purge-icons",
-        "author": {
-            "name": "Anthony Fu",
-            "url": "https://github.com/antfu"
-        },
-        "stars": 231,
-        "downloads": 39666
-    },
-    {
-        "id": "vite-plugin-vue",
-        "name": "Vite Vue Plugins",
-        "description": "Vite Vue Plugins",
-        "category": {
-            "main": "vite",
-            "children": "vue plugins"
-        },
-        "packageName": "@vitejs/plugin-vue",
-        "github": "https://github.com/vitejs/vite-plugin-vue",
-        "npm": "https://www.npmjs.com/package/@vitejs/plugin-vue",
-        "website": "https://github.com/vitejs/vite-plugin-vue",
-        "author": {
-            "name": "Evan You",
-            "url": "https://github.com/yyx990803"
-        },
-        "stars": 600,
-        "downloads": 14188503
-    },
-    {
-        "id": "vite-plugin-vue-setup-extend",
-        "name": "vite-plugin-vue-setup-extend",
-        "description": "Extending the vue script setup syntactic sugar",
-        "category": {
-            "main": "vite",
-            "children": "vue plugins"
-        },
-        "packageName": "vite-plugin-vue-setup-extend",
-        "github": "https://github.com/vbenjs/vite-plugin-vue-setup-extend",
-        "npm": "https://www.npmjs.com/package/vite-plugin-vue-setup-extend",
-        "website": "https://github.com/vbenjs/vite-plugin-vue-setup-extend",
-        "author": {
-            "name": "Vben",
-            "url": "https://github.com/anncwb"
-        },
-        "stars": 156,
-        "downloads": 28482
-    },
-    {
-        "id": "@vitejs/plugin-legacy",
-        "name": "@vitejs/plugin-legacy",
-        "description": "Next generation frontend tooling. It's fast!",
-        "category": {
-            "main": "vite",
-            "children": "vue plugins"
-        },
-        "packageName": "@vitejs/plugin-legacy",
-        "github": "https://github.com/vitejs/vite",
-        "npm": "https://www.npmjs.com/package/@vitejs/plugin-legacy",
-        "website": "https://vite.dev/",
-        "author": {
-            "name": "Evan You",
-            "url": "https://github.com/yyx990803"
-        },
-        "stars": 74479,
-        "downloads": 1814884
-    },
-    {
-        "id": "vite-plugin-vue-images",
-        "name": "vite-plugin-vue-images",
-        "description": "Auto import images for Vite+Vue projects",
-        "category": {
-            "main": "vite",
-            "children": "vue plugins"
-        },
-        "packageName": "vite-plugin-vue-images",
-        "github": "https://github.com/sampullman/vite-plugin-vue-images",
-        "npm": "https://www.npmjs.com/package/vite-plugin-vue-images",
-        "website": "https://github.com/sampullman/vite-plugin-vue-images",
-        "author": {
-            "name": "Sam Pullman",
-            "url": "https://github.com/sampullman"
-        },
-        "stars": 11,
-        "downloads": 1464
-    }
+  {
+    "id": "commander",
+    "name": "commander",
+    "description": "node.js command-line interfaces made easy",
+    "category": {
+      "main": "scaffolding",
+      "children": "command"
+    },
+    "packageName": "commander",
+    "github": "https://github.com/tj/commander.js",
+    "npm": "https://www.npmjs.com/package/commander",
+    "website": "https://github.com/tj/commander.js",
+    "author": {
+      "name": "tj",
+      "url": "https://github.com/tj"
+    },
+    "stars": 27507,
+    "downloads": 897089295
+  },
+  {
+    "id": "cac",
+    "name": "cac",
+    "description": "Simple yet powerful framework for building command-line apps.",
+    "category": {
+      "main": "scaffolding",
+      "children": "command"
+    },
+    "packageName": "cac",
+    "github": "https://github.com/cacjs/cac",
+    "npm": "https://www.npmjs.com/package/cac",
+    "website": "https://github.com/cacjs/cac",
+    "author": {
+      "name": "egoist",
+      "url": "https://github.com/egoist"
+    },
+    "stars": 2812,
+    "downloads": 54521229
+  },
+  {
+    "id": "Yargs",
+    "name": "Yargs",
+    "description": "yargs the modern, pirate-themed successor to optimist.",
+    "category": {
+      "main": "scaffolding",
+      "children": "command"
+    },
+    "packageName": "yargs",
+    "github": "https://github.com/yargs/yargs",
+    "npm": "https://www.npmjs.com/package/yargs",
+    "website": "https://yargs.js.org/",
+    "author": {
+      "name": "yargs",
+      "url": "https://github.com/yargs"
+    },
+    "stars": 11325,
+    "downloads": 528648417
+  },
+  {
+    "id": "prompts",
+    "name": "prompts",
+    "description": "❯ Lightweight, beautiful and user-friendly interactive prompts",
+    "category": {
+      "main": "scaffolding",
+      "children": "interaction"
+    },
+    "packageName": "prompts",
+    "github": "https://github.com/terkelg/prompts",
+    "npm": "https://www.npmjs.com/package/prompts",
+    "website": "https://github.com/terkelg/prompts",
+    "author": {
+      "name": "Terkel",
+      "url": "https://github.com/terkelg"
+    },
+    "stars": 9122,
+    "downloads": 145497937
+  },
+  {
+    "id": "@clack/prompts",
+    "name": "@clack/prompts",
+    "description": "Effortlessly build beautiful command-line apps",
+    "category": {
+      "main": "scaffolding",
+      "children": "interaction"
+    },
+    "packageName": "@clack/prompts",
+    "github": "https://github.com/bombshell-dev/clack",
+    "npm": "https://www.npmjs.com/package/@clack/prompts",
+    "website": "https://www.clack.cc/",
+    "author": {
+      "name": "bombshell",
+      "url": "https://github.com/bombshell-dev"
+    },
+    "stars": 6700,
+    "downloads": 6304855
+  },
+  {
+    "id": "Inquirer.js",
+    "name": "Inquirer.js",
+    "description": "A collection of common interactive command line user interfaces.",
+    "category": {
+      "main": "scaffolding",
+      "children": "interaction"
+    },
+    "packageName": "@inquirer/prompts",
+    "github": "https://github.com/SBoudrias/Inquirer.js",
+    "npm": "https://www.npmjs.com/package/@inquirer/prompts",
+    "website": "https://github.com/SBoudrias/Inquirer.js",
+    "author": {
+      "name": "SBoudrias",
+      "url": "https://github.com/SBoudrias"
+    },
+    "stars": 21015,
+    "downloads": 31959182
+  },
+  {
+    "id": "Enquirer",
+    "name": "Enquirer",
+    "description": "Stylish, intuitive and user-friendly prompts. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, hygen, hardhat, AWS Amplify, GitHub Actions Toolkit",
+    "category": {
+      "main": "scaffolding",
+      "children": "interaction"
+    },
+    "packageName": "enquirer",
+    "github": "https://github.com/enquirer/enquirer",
+    "npm": "https://www.npmjs.com/package/enquirer",
+    "website": "https://github.com/enquirer/enquirer",
+    "author": {
+      "name": "Jon Schlinkert",
+      "url": "https://github.com/jonschlinkert"
+    },
+    "stars": 7856,
+    "downloads": 89891205
+  },
+  {
+    "id": "figlet",
+    "name": "figlet",
+    "description": "A FIG Driver written in JavaScript which aims to fully implement the FIGfont spec.",
+    "category": {
+      "main": "scaffolding",
+      "children": "Beautification Output"
+    },
+    "packageName": "figlet",
+    "github": "https://github.com/patorjk/figlet.js",
+    "npm": "https://www.npmjs.com/package/figlet",
+    "website": "https://github.com/patorjk/figlet.js",
+    "author": {
+      "name": "patorjk",
+      "url": "https://github.com/patorjk"
+    },
+    "stars": 2836,
+    "downloads": 10490463
+  },
+  {
+    "id": "picocolors",
+    "name": "picocolors",
+    "description": "The tiniest and the fastest library for terminal output formatting with ANSI colors",
+    "category": {
+      "main": "scaffolding",
+      "children": "Beautification Output"
+    },
+    "packageName": "picocolors",
+    "github": "https://github.com/alexeyraspopov/picocolors",
+    "npm": "https://www.npmjs.com/package/picocolors",
+    "website": "https://github.com/alexeyraspopov/picocolors",
+    "author": {
+      "name": "Oleksii <alexeyraspopov>",
+      "url": "https://github.com/alexeyraspopov"
+    },
+    "stars": 1564,
+    "downloads": 364841432
+  },
+  {
+    "id": "ansis",
+    "name": "ansis",
+    "description": "CJS/ESM ANSI color library for terminals, CI and Chromium-based browser consoles. Compatible with Bun, Deno, Next.JS.",
+    "category": {
+      "main": "scaffolding",
+      "children": "Beautification Output"
+    },
+    "packageName": "ansis",
+    "github": "https://github.com/webdiscus/ansis",
+    "npm": "https://www.npmjs.com/package/ansis",
+    "website": "https://github.com/webdiscus/ansis",
+    "author": {
+      "name": "webdiscus",
+      "url": "https://github.com/webdiscus"
+    },
+    "stars": 415,
+    "downloads": 22776038
+  },
+  {
+    "id": "vite",
+    "name": "vite",
+    "description": "Next generation frontend tooling. It's fast!",
+    "category": {
+      "main": "Build Package",
+      "children": "build"
+    },
+    "packageName": "vite",
+    "github": "https://github.com/vitejs/vite",
+    "npm": "https://www.npmjs.com/package/vite",
+    "website": "https://vite.dev/",
+    "author": {
+      "name": "Evan You",
+      "url": "https://github.com/yyx990803"
+    },
+    "stars": 74513,
+    "downloads": 133952831
+  },
+  {
+    "id": "esbuild",
+    "name": "esbuild",
+    "description": "An extremely fast bundler for the web",
+    "category": {
+      "main": "Build Package",
+      "children": "build"
+    },
+    "packageName": "esbuild",
+    "github": "https://github.com/evanw/esbuild",
+    "npm": "https://www.npmjs.com/package/esbuild",
+    "website": "https://esbuild.github.io/",
+    "author": {
+      "name": "Evan Wallace",
+      "url": "https://github.com/evanw"
+    },
+    "stars": 39179,
+    "downloads": 269369979
+  },
+  {
+    "id": "unbuild",
+    "name": "unbuild",
+    "description": "📦 A unified JavaScript build system",
+    "category": {
+      "main": "Build Package",
+      "children": "build"
+    },
+    "packageName": "unbuild",
+    "github": "https://github.com/unjs/unbuild",
+    "npm": "https://www.npmjs.com/package/unbuild",
+    "website": "https://github.com/unjs/unbuild",
+    "author": {
+      "name": "UnJS",
+      "url": "https://github.com/unjs"
+    },
+    "stars": 2645,
+    "downloads": 738064
+  },
+  {
+    "id": "rollup",
+    "name": "rollup",
+    "description": "Next-generation ES module bundler",
+    "category": {
+      "main": "Build Package",
+      "children": "build"
+    },
+    "packageName": "rollup",
+    "github": "https://github.com/rollup/rollup",
+    "npm": "https://www.npmjs.com/package/rollup",
+    "website": "https://rollupjs.org/",
+    "author": {
+      "name": "Rollup",
+      "url": "https://github.com/rollup"
+    },
+    "stars": 25914,
+    "downloads": 180041483
+  },
+  {
+    "id": "rolldown",
+    "name": "rolldown",
+    "description": "Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.",
+    "category": {
+      "main": "Build Package",
+      "children": "build"
+    },
+    "packageName": "rolldown",
+    "github": "https://github.com/rolldown/rolldown",
+    "npm": "https://www.npmjs.com/package/rolldown",
+    "website": "https://rolldown.rs/",
+    "author": {
+      "name": "Rolldown",
+      "url": "https://github.com/rolldown/"
+    },
+    "stars": 11726,
+    "downloads": 1013271
+  },
+  {
+    "id": "tsup",
+    "name": "tsup",
+    "description": "The simplest and fastest way to bundle your TypeScript libraries.",
+    "category": {
+      "main": "Build Package",
+      "children": "build"
+    },
+    "packageName": "tsup",
+    "github": "https://github.com/egoist/tsup",
+    "npm": "https://www.npmjs.com/package/tsup",
+    "website": "https://tsup.egoist.dev/",
+    "author": {
+      "name": "egoist",
+      "url": "https://github.com/egoist"
+    },
+    "stars": 10615,
+    "downloads": 8873780
+  },
+  {
+    "id": "tsdown",
+    "name": "tsdown",
+    "description": "The elegant bundler for libraries powered by Rolldown",
+    "category": {
+      "main": "Build Package",
+      "children": "build"
+    },
+    "packageName": "tsdown",
+    "github": "https://github.com/rolldown/tsdown",
+    "npm": "https://www.npmjs.com/package/tsdown",
+    "website": "https://tsdown.dev/",
+    "author": {
+      "name": "sxzz <Kevin Deng>",
+      "url": "https://github.com/sxzz"
+    },
+    "stars": 2090,
+    "downloads": 302098
+  },
+  {
+    "id": "parcel",
+    "name": "parcel",
+    "description": "The zero configuration build tool for the web. 📦🚀",
+    "category": {
+      "main": "Build Package",
+      "children": "build"
+    },
+    "packageName": "parcel",
+    "github": "https://github.com/parcel-bundler/parcel",
+    "npm": "https://www.npmjs.com/package/parcel",
+    "website": "https://parceljs.org/",
+    "author": {
+      "name": "Parcel",
+      "url": "https://github.com/parcel-bundler"
+    },
+    "stars": 43913,
+    "downloads": 1109495
+  },
+  {
+    "id": "turborepo",
+    "name": "turborepo",
+    "description": "Build system optimized for JavaScript and TypeScript, written in Rust",
+    "category": {
+      "main": "Build Package",
+      "children": "build"
+    },
+    "packageName": "turbo",
+    "github": "https://github.com/vercel/turborepo",
+    "npm": "https://www.npmjs.com/package/turbo",
+    "website": "https://turborepo.com/",
+    "author": {
+      "name": "Vercel",
+      "url": "https://github.com/vercel"
+    },
+    "stars": 28319,
+    "downloads": 19463756
+  },
+  {
+    "id": "Rspack",
+    "name": "Rspack",
+    "description": "The fast Rust-based web bundler with webpack-compatible API 🦀️",
+    "category": {
+      "main": "Build Package",
+      "children": "web infra dev"
+    },
+    "packageName": "@rspack/core",
+    "github": "https://github.com/web-infra-dev/rspack",
+    "npm": "https://www.npmjs.com/package/@rspack/core",
+    "website": "https://rspack.rs/",
+    "author": {
+      "name": "Web Infra",
+      "url": "https://github.com/web-infra-dev"
+    },
+    "stars": 11814,
+    "downloads": 7029196
+  },
+  {
+    "id": "Rsbuild",
+    "name": "Rsbuild",
+    "description": "A zero-config, instant build tool powered by Rspack.",
+    "category": {
+      "main": "Build Package",
+      "children": "web infra dev"
+    },
+    "packageName": "@rsbuild/core",
+    "github": "https://github.com/web-infra-dev/rsbuild",
+    "npm": "https://www.npmjs.com/package/@rsbuild/core",
+    "website": "https://rsbuild.rs/",
+    "author": {
+      "name": "Web Infra",
+      "url": "https://github.com/web-infra-dev"
+    },
+    "stars": 2769,
+    "downloads": 1479051
+  },
+  {
+    "id": "Rslib",
+    "name": "Rslib",
+    "description": "Create JavaScript libraries in a simple and intuitive way.",
+    "category": {
+      "main": "Build Package",
+      "children": "web infra dev"
+    },
+    "packageName": "@rslib/core",
+    "github": "https://github.com/web-infra-dev/rslib",
+    "npm": "https://www.npmjs.com/package/@rslib/core",
+    "website": "https://rslib.rs/",
+    "author": {
+      "name": "Web Infra",
+      "url": "https://github.com/web-infra-dev"
+    },
+    "stars": 884,
+    "downloads": 197640
+  },
+  {
+    "id": "iconify",
+    "name": "iconify",
+    "description": "Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SVG framework, React, Vue and Svelte components!",
+    "category": {
+      "main": "icon",
+      "children": "icon"
+    },
+    "packageName": "@iconify/vue",
+    "github": "https://github.com/iconify/iconify",
+    "npm": "https://www.npmjs.com/package/@iconify/vue",
+    "website": "https://icon-sets.iconify.design/",
+    "author": {
+      "name": "Vjacheslav Trushkin",
+      "url": "https://github.com/cyberalien"
+    },
+    "stars": 5340,
+    "downloads": 1136858
+  },
+  {
+    "id": "Icons",
+    "name": "Icons",
+    "description": "免费获取图标，适用于平面设计、用户界面、社交媒体和移动端。搜索风格统一的静态图标和动态图标。格式有PNG、SVG、GIF和AE。",
+    "category": {
+      "main": "icon",
+      "children": "icon"
+    },
+    "website": "https://igoutu.cn/icons/",
+    "stars": 0,
+    "downloads": 0
+  },
+  {
+    "id": "CSS Symbols",
+    "name": "CSS Symbols",
+    "description": "700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.",
+    "category": {
+      "main": "icon",
+      "children": "icon"
+    },
+    "github": "https://github.com/astrit/css.gg",
+    "website": "https://css.gg/",
+    "author": {
+      "name": "astrit",
+      "url": "https://github.com/astrit"
+    },
+    "stars": 9864,
+    "downloads": 0
+  },
+  {
+    "id": "Lucide Icon",
+    "name": "lucide",
+    "description": "Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.",
+    "category": {
+      "main": "icon",
+      "children": "icon"
+    },
+    "packageName": "lucide",
+    "github": "https://github.com/lucide-icons/lucide",
+    "npm": "https://www.npmjs.com/package/lucide",
+    "website": "https://lucide.dev/icons/",
+    "author": {
+      "name": "Lucide",
+      "url": "https://github.com/lucide-icons"
+    },
+    "stars": 18404,
+    "downloads": 373081
+  },
+  {
+    "id": "Simple Icon",
+    "name": "simple-icons",
+    "description": "SVG icons for popular brands",
+    "category": {
+      "main": "icon",
+      "children": "icon"
+    },
+    "packageName": "simple-icons",
+    "github": "https://github.com/simple-icons/simple-icons",
+    "npm": "https://www.npmjs.com/package/simple-icons",
+    "website": "https://simpleicons.org/",
+    "author": {
+      "name": "Simple Icons",
+      "url": "https://github.com/simple-icons"
+    },
+    "stars": 23142,
+    "downloads": 372312
+  },
+  {
+    "id": "Feather Icon",
+    "name": "feather",
+    "description": "Simply beautiful open-source icons",
+    "category": {
+      "main": "icon",
+      "children": "icon"
+    },
+    "packageName": "feather-icons",
+    "github": "https://github.com/feathericons/feather",
+    "npm": "https://www.npmjs.com/package/feather-icons",
+    "website": "https://feathericons.com/",
+    "author": {
+      "name": "Feather",
+      "url": "https://github.com/feathericons"
+    },
+    "stars": 25566,
+    "downloads": 432958
+  },
+  {
+    "id": "Font Awesome",
+    "name": "Font-Awesome",
+    "description": "The iconic SVG, font, and CSS toolkit",
+    "category": {
+      "main": "icon",
+      "children": "icon"
+    },
+    "packageName": "@fortawesome/vue-fontawesome",
+    "github": "https://github.com/FortAwesome/Font-Awesome",
+    "npm": "https://www.npmjs.com/package/@fortawesome/vue-fontawesome",
+    "website": "https://fontawesome.com",
+    "author": {
+      "name": "Font Awesome",
+      "url": "https://github.com/FortAwesome"
+    },
+    "stars": 75532,
+    "downloads": 1298288
+  },
+  {
+    "id": "Yesicon",
+    "name": "Yesicon",
+    "description": "214 icon sets with 270k+ icons, search across icon sets in multiple languages, rich filtering by type and style, quick customization of icon colors, sizes and code styles, one-click copy and download for developers and designers",
+    "category": {
+      "main": "icon",
+      "children": "icon"
+    },
+    "github": "https://github.com/rotick/yesicon-forum",
+    "website": "https://yesicon.app/",
+    "author": {
+      "name": "rotick",
+      "url": "https://github.com/rotick"
+    },
+    "stars": 25,
+    "downloads": 0
+  },
+  {
+    "id": "Svgl",
+    "name": "Svgl",
+    "description": "🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.",
+    "category": {
+      "main": "icon",
+      "children": "icon"
+    },
+    "github": "https://github.com/pheralb/svgl",
+    "website": "https://svgl.app/",
+    "author": {
+      "name": "Pablo Hdez",
+      "url": "https://github.com/pheralb"
+    },
+    "stars": 4790,
+    "downloads": 0
+  },
+  {
+    "id": "Icon Font",
+    "name": "Icon Font",
+    "description": "iconfont-国内功能很强大且图标内容很丰富的矢量图标库，提供矢量图标下载、在线存储、格式转换等功能。阿里巴巴体验团队倾力打造，设计和前端开发的便捷工具",
+    "category": {
+      "main": "icon",
+      "children": "icon"
+    },
+    "github": "https://github.com/thx/iconfont-plus",
+    "website": "https://www.iconfont.cn/",
+    "author": {
+      "name": "THX",
+      "url": "https://github.com/thx"
+    },
+    "stars": 470,
+    "downloads": 0
+  },
+  {
+    "id": "Scroll Reveal",
+    "name": "Scroll Reveal",
+    "description": "Animate elements as they scroll into view",
+    "category": {
+      "main": "Animation",
+      "children": "Animation"
+    },
+    "packageName": "scrollreveal",
+    "github": "https://github.com/jlmakes/scrollreveal",
+    "npm": "https://www.npmjs.com/package/scrollreveal",
+    "website": "https://scrollrevealjs.org/",
+    "author": {
+      "name": "jlmakes",
+      "url": "https://github.com/jlmakes"
+    },
+    "stars": 22518,
+    "downloads": 42917
+  },
+  {
+    "id": "Scroll Magic",
+    "name": "Scroll Magic",
+    "description": "The javascript library for magical scroll interactions.",
+    "category": {
+      "main": "Animation",
+      "children": "Animation"
+    },
+    "packageName": "scrollmagic",
+    "github": "https://github.com/janpaepke/ScrollMagic",
+    "npm": "https://www.npmjs.com/package/scrollmagic",
+    "website": "https://scrollmagic.io/",
+    "author": {
+      "name": "Jan Paepke",
+      "url": "https://github.com/janpaepke"
+    },
+    "stars": 14958,
+    "downloads": 136162
+  },
+  {
+    "id": "Rellax",
+    "name": "Rellax",
+    "description": "Lightweight, vanilla javascript parallax library",
+    "category": {
+      "main": "Animation",
+      "children": "Animation"
+    },
+    "packageName": "rellax",
+    "github": "https://github.com/dixonandmoe/rellax",
+    "npm": "https://www.npmjs.com/package/rellax",
+    "website": "https://github.com/dixonandmoe/rellax",
+    "author": {
+      "name": "Moe Amaya",
+      "url": "https://github.com/moeamaya"
+    },
+    "stars": 7145,
+    "downloads": 63558
+  },
+  {
+    "id": "Animate.css",
+    "name": "Animate.css",
+    "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.",
+    "category": {
+      "main": "Animation",
+      "children": "Animation"
+    },
+    "packageName": "animate.css",
+    "github": "https://github.com/animate-css/animate.css",
+    "npm": "https://www.npmjs.com/package/animate.css",
+    "website": "https://animate.style/",
+    "author": {
+      "name": "Waren Gonzaga",
+      "url": "https://github.com/warengonzaga"
+    },
+    "stars": 82007,
+    "downloads": 1800092
+  },
+  {
+    "id": "Animate On Scroll",
+    "name": "Animate On Scroll",
+    "description": "Animate on scroll library",
+    "category": {
+      "main": "Animation",
+      "children": "Animation"
+    },
+    "packageName": "aos",
+    "github": "https://github.com/michalsnik/aos",
+    "npm": "https://www.npmjs.com/package/aos",
+    "website": "https://michalsnik.github.io/aos/",
+    "author": {
+      "name": "Michał Sajnóg",
+      "url": "https://github.com/michalsnik"
+    },
+    "stars": 27758,
+    "downloads": 792261
+  },
+  {
+    "id": "Wow.js",
+    "name": "Wow.js",
+    "description": "Reveal CSS animation as you scroll down a page",
+    "category": {
+      "main": "Animation",
+      "children": "Animation"
+    },
+    "packageName": "wow.js",
+    "github": "https://github.com/graingert/wow",
+    "npm": "https://www.npmjs.com/package/wow.js",
+    "website": "https://wowjs.uk/",
+    "author": {
+      "name": "Thomas Grainger",
+      "url": "https://github.com/graingert"
+    },
+    "stars": 1677,
+    "downloads": 27252
+  },
+  {
+    "id": "Three.js",
+    "name": "Three.js",
+    "description": "JavaScript 3D Library.",
+    "category": {
+      "main": "Animation",
+      "children": "Animation"
+    },
+    "packageName": "three",
+    "github": "https://github.com/mrdoob/three.js",
+    "npm": "https://www.npmjs.com/package/three",
+    "website": "https://threejs.org/",
+    "author": {
+      "name": "mrdoob",
+      "url": "https://github.com/mrdoob"
+    },
+    "stars": 107924,
+    "downloads": 8806005
+  },
+  {
+    "id": "GSAP",
+    "name": "GSAP",
+    "description": "GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web",
+    "category": {
+      "main": "Animation",
+      "children": "Animation"
+    },
+    "packageName": "gsap",
+    "github": "https://github.com/greensock/GSAP",
+    "npm": "https://www.npmjs.com/package/gsap",
+    "website": "https://gsap.com/docs/v3/GSAP/",
+    "author": {
+      "name": "GreenSock",
+      "url": "https://github.com/greensock"
+    },
+    "stars": 22574,
+    "downloads": 3309621
+  },
+  {
+    "id": "lottie-web",
+    "name": "lottie-web",
+    "description": "Render After Effects animations natively on Web, Android and iOS, and React",
+    "category": {
+      "main": "Animation",
+      "children": "Animation"
+    },
+    "packageName": "lottie-web",
+    "github": "https://github.com/airbnb/lottie-web",
+    "npm": "https://www.npmjs.com/package/lottie-web",
+    "website": "https://github.com/airbnb/lottie-web",
+    "author": {
+      "name": "Airbnb",
+      "url": "https://github.com/airbnb"
+    },
+    "stars": 31307,
+    "downloads": 11339163
+  },
+  {
+    "id": "Sass / SCSS",
+    "name": "Sass / SCSS",
+    "description": "The reference implementation of Sass, written in Dart",
+    "category": {
+      "main": "css",
+      "children": "css"
+    },
+    "packageName": "sass",
+    "github": "https://github.com/sass/dart-sass",
+    "npm": "https://www.npmjs.com/package/sass",
+    "website": "https://sass-lang.com/",
+    "author": {
+      "name": "Sass",
+      "url": "https://github.com/sass"
+    },
+    "stars": 4112,
+    "downloads": 73460430
+  },
+  {
+    "id": "PostCSS",
+    "name": "PostCSS",
+    "description": "Transforming styles with JS plugins",
+    "category": {
+      "main": "css",
+      "children": "css"
+    },
+    "packageName": "postcss",
+    "github": "https://github.com/postcss/postcss",
+    "npm": "https://www.npmjs.com/package/postcss",
+    "website": "https://postcss.org/",
+    "author": {
+      "name": "ai",
+      "url": "https://github.com/ai"
+    },
+    "stars": 28830,
+    "downloads": 439321485
+  },
+  {
+    "id": "CSS Modules",
+    "name": "CSS Modules",
+    "description": "Documentation about css-modules",
+    "category": {
+      "main": "css",
+      "children": "css"
+    },
+    "packageName": "css-modules",
+    "github": "https://github.com/css-modules/css-modules",
+    "npm": "https://www.npmjs.com/package/css-modules",
+    "website": "https://github.com/css-modules",
+    "author": {
+      "name": "css-modules",
+      "url": "https://github.com/css-modules"
+    },
+    "stars": 17904,
+    "downloads": 8201
+  },
+  {
+    "id": "UnoCSS",
+    "name": "UnoCSS",
+    "description": "The instant on-demand atomic CSS engine",
+    "category": {
+      "main": "css",
+      "children": "css"
+    },
+    "packageName": "unocss",
+    "github": "https://github.com/unocss/unocss",
+    "npm": "https://www.npmjs.com/package/unocss",
+    "website": "https://unocss.dev/",
+    "author": {
+      "name": "Anthony Fu",
+      "url": "https://github.com/antfu"
+    },
+    "stars": 17954,
+    "downloads": 880153
+  },
+  {
+    "id": "Less",
+    "name": "Less",
+    "description": "Less. The dynamic stylesheet language",
+    "category": {
+      "main": "css",
+      "children": "css"
+    },
+    "packageName": "less",
+    "github": "https://github.com/less/less.js",
+    "npm": "https://www.npmjs.com/package/less",
+    "website": "https://lesscss.org/",
+    "author": {
+      "name": "Less",
+      "url": "https://github.com/less"
+    },
+    "stars": 17049,
+    "downloads": 32233539
+  },
+  {
+    "id": "Aceternity UI",
+    "name": "Aceternity UI",
+    "description": "Beautiful Tailwind CSS and Framer Motion Components, built with Next.js and TypeScript.",
+    "category": {
+      "main": "css",
+      "children": "tailwind css"
+    },
+    "website": "https://ui.aceternity.com/",
+    "author": {
+      "name": "Manu Arora",
+      "url": "https://github.com/manuarora700"
+    },
+    "stars": 0,
+    "downloads": 0
+  },
+  {
+    "id": "Volt",
+    "name": "Volt",
+    "description": "Build your own UI library with the flexibility of Tailwind CSS and the convenience of PrimeVue components",
+    "category": {
+      "main": "css",
+      "children": "tailwind css"
+    },
+    "packageName": "volt-vue",
+    "github": "https://github.com/primefaces/primevue",
+    "npm": "https://www.npmjs.com/package/volt-vue",
+    "website": "https://volt.primevue.org/",
+    "author": {
+      "name": "PrimeTek",
+      "url": "https://github.com/primefaces"
+    },
+    "stars": 13120,
+    "downloads": 790
+  },
+  {
+    "id": "Magic UI",
+    "name": "Magic UI",
+    "description": "UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.",
+    "category": {
+      "main": "css",
+      "children": "tailwind css"
+    },
+    "github": "https://github.com/magicuidesign/magicui",
+    "website": "https://magicui.design/",
+    "author": {
+      "name": "Beau Hayes-Pollard",
+      "url": "https://github.com/beaubhp"
+    },
+    "stars": 18166,
+    "downloads": 0
+  },
+  {
+    "id": "Tailwind Plus",
+    "name": "Tailwind Plus",
+    "description": "Beautiful UI components and templates by the creators of Tailwind CSS.",
+    "category": {
+      "main": "css",
+      "children": "tailwind css"
+    },
+    "packageName": "tailwindcss",
+    "github": "https://github.com/tailwindlabs/tailwindcss",
+    "npm": "https://www.npmjs.com/package/tailwindcss",
+    "website": "https://tailwindcss.com/plus",
+    "author": {
+      "name": "Tailwind Labs",
+      "url": "https://github.com/tailwindlabs"
+    },
+    "stars": 89365,
+    "downloads": 86791059
+  },
+  {
+    "id": "Preline UI",
+    "name": "Preline UI",
+    "description": "Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.",
+    "category": {
+      "main": "css",
+      "children": "tailwind css"
+    },
+    "packageName": "preline",
+    "github": "https://github.com/htmlstreamofficial/preline",
+    "npm": "http://npmjs.com/package/preline",
+    "website": "https://preline.co/",
+    "author": {
+      "name": "Html Stream",
+      "url": "https://github.com/htmlstreamofficial"
+    },
+    "stars": 5727,
+    "downloads": 142114
+  },
+  {
+    "id": "Shadcn-vue",
+    "name": "Shadcn Vue",
+    "description": "Vue port of shadcn-ui",
+    "category": {
+      "main": "css",
+      "children": "tailwind css"
+    },
+    "packageName": "shadcn-vue",
+    "github": "https://github.com/unovue/shadcn-vue",
+    "npm": "https://www.npmjs.com/package/shadcn-vue",
+    "website": "https://www.shadcn-vue.com/",
+    "author": {
+      "name": "unovue",
+      "url": "https://github.com/unovue"
+    },
+    "stars": 7898,
+    "downloads": 39557
+  },
+  {
+    "id": "Flowbite",
+    "name": "Flowbite",
+    "description": "Open-source UI component library and front-end development framework based on Tailwind CSS",
+    "category": {
+      "main": "css",
+      "children": "tailwind css"
+    },
+    "packageName": "flowbite",
+    "github": "https://github.com/themesberg/flowbite",
+    "npm": "https://www.npmjs.com/package/flowbite",
+    "website": "https://flowbite.com/",
+    "author": {
+      "name": "Themesberg",
+      "url": "https://github.com/themesberg"
+    },
+    "stars": 8731,
+    "downloads": 1689553
+  },
+  {
+    "id": "Daisy UI",
+    "name": "Daisy UI",
+    "description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
+    "category": {
+      "main": "css",
+      "children": "tailwind css"
+    },
+    "packageName": "daisyui",
+    "github": "https://github.com/saadeghi/daisyui",
+    "npm": "https://www.npmjs.com/package/daisyui",
+    "website": "https://daisyui.com/",
+    "author": {
+      "name": "Pouya Saadeghi",
+      "url": "https://github.com/saadeghi"
+    },
+    "stars": 38153,
+    "downloads": 1856038
+  },
+  {
+    "id": "Float UI",
+    "name": "Float UI",
+    "description": "Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.",
+    "category": {
+      "main": "css",
+      "children": "tailwind css"
+    },
+    "github": "https://github.com/MarsX-dev/floatui",
+    "website": "https://floatui.com/",
+    "author": {
+      "name": "MarsX",
+      "url": "https://github.com/MarsX-dev"
+    },
+    "stars": 3508,
+    "downloads": 0
+  },
+  {
+    "id": "flyonui",
+    "name": "Flyon UI",
+    "description": "🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.",
+    "category": {
+      "main": "css",
+      "children": "tailwind css"
+    },
+    "packageName": "flyonui",
+    "github": "https://github.com/themeselection/flyonui",
+    "npm": "https://www.npmjs.com/package/flyonui",
+    "website": "https://flyonui.com/",
+    "author": {
+      "name": "ThemeSelection",
+      "url": "https://github.com/themeselection"
+    },
+    "stars": 2100,
+    "downloads": 11015
+  },
+  {
+    "id": "merakiui",
+    "name": "Merak UI",
+    "description": "Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.",
+    "category": {
+      "main": "css",
+      "children": "tailwind css"
+    },
+    "github": "https://github.com/merakiuilabs/merakiui",
+    "website": "https://merakiui.com/",
+    "author": {
+      "name": "Meraki UI Labs",
+      "url": "https://github.com/merakiuilabs"
+    },
+    "stars": 2639,
+    "downloads": 0
+  },
+  {
+    "id": "tailgrids",
+    "name": "Tail Grids",
+    "description": "Tailwind CSS UI library, featuring over 600 top-tier Tailwind CSS UI components and blocks. Each one is handcrafted for modern websites, landing pages, web applications, dashboards, ecommerce platforms, and more.",
+    "category": {
+      "main": "css",
+      "children": "tailwind css"
+    },
+    "packageName": "tailgrids",
+    "github": "https://github.com/TailGrids/tailwind-ui-components",
+    "npm": "https://www.npmjs.com/package/tailgrids",
+    "website": "https://tailgrids.com/",
+    "author": {
+      "name": "Musharof Chowdhury",
+      "url": "https://github.com/Musharofchy"
+    },
+    "stars": 1365,
+    "downloads": 14233
+  },
+  {
+    "id": "vuejs",
+    "name": "vuejs",
+    "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "category": {
+      "main": "vue",
+      "children": "framework"
+    },
+    "packageName": "vue",
+    "github": "https://github.com/vuejs/core",
+    "npm": "https://www.npmjs.com/package/vue",
+    "website": "https://vuejs.org/",
+    "author": {
+      "name": "Evan You",
+      "url": "https://github.com/yyx990803"
+    },
+    "stars": 51143,
+    "downloads": 27824979
+  },
+  {
+    "id": "vue router",
+    "name": "Vue Router",
+    "description": "🚦 The official router for Vue.js",
+    "category": {
+      "main": "vue",
+      "children": "Router"
+    },
+    "packageName": "vue-router",
+    "github": "https://github.com/vuejs/router",
+    "npm": "https://www.npmjs.com/package/vue-router",
+    "website": "https://router.vuejs.org/",
+    "author": {
+      "name": "posva",
+      "url": "https://github.com/posva"
+    },
+    "stars": 4326,
+    "downloads": 16292609
+  },
+  {
+    "id": "unplugin-vue-router",
+    "name": "unplugin-vue-router",
+    "description": "Next Generation file based typed routing for Vue Router",
+    "category": {
+      "main": "vue",
+      "children": "Router"
+    },
+    "packageName": "unplugin-vue-router",
+    "github": "https://github.com/posva/unplugin-vue-router",
+    "npm": "https://www.npmjs.com/package/unplugin-vue-router",
+    "website": "https://uvr.esm.is/",
+    "author": {
+      "name": "posva",
+      "url": "https://github.com/posva"
+    },
+    "stars": 2065,
+    "downloads": 3316878
+  },
+  {
+    "id": "Pinia",
+    "name": "Pinia",
+    "description": "🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support",
+    "category": {
+      "main": "vue",
+      "children": "state management"
+    },
+    "packageName": "pinia",
+    "github": "https://github.com/vuejs/pinia",
+    "npm": "https://www.npmjs.com/package/pinia",
+    "website": "https://pinia.vuejs.org/",
+    "author": {
+      "name": "posva",
+      "url": "https://github.com/posva"
+    },
+    "stars": 14085,
+    "downloads": 8757887
+  },
+  {
+    "id": "Vuex",
+    "name": "Vuex",
+    "description": "🗃️ Centralized State Management for Vue.js.",
+    "category": {
+      "main": "vue",
+      "children": "state management"
+    },
+    "packageName": "vuex",
+    "github": "https://github.com/vuejs/vuex",
+    "npm": "https://www.npmjs.com/package/vuex",
+    "website": "https://vuex.vuejs.org/",
+    "author": {
+      "name": "Evan You",
+      "url": "https://github.com/yyx990803"
+    },
+    "stars": 28444,
+    "downloads": 6883355
+  },
+  {
+    "id": "pinia-plugin-persistedstate",
+    "name": "Pinia Plugin Persistedstate",
+    "description": "💾 Configurable persistence and rehydration of Pinia stores",
+    "category": {
+      "main": "vue",
+      "children": "state management"
+    },
+    "packageName": "pinia-plugin-persistedstate",
+    "github": "https://github.com/prazdevs/pinia-plugin-persistedstate",
+    "npm": "https://www.npmjs.com/package/pinia-plugin-persistedstate",
+    "website": "https://prazdevs.github.io/pinia-plugin-persistedstate/",
+    "author": {
+      "name": "praz",
+      "url": "https://github.com/prazdevs"
+    },
+    "stars": 2449,
+    "downloads": 1288424
+  },
+  {
+    "id": "vue-i18n",
+    "name": "Vue I18n",
+    "description": "Vue I18n for Vue 3",
+    "category": {
+      "main": "vue",
+      "children": "Internationalization"
+    },
+    "packageName": "vue-i18n",
+    "github": "https://github.com/intlify/vue-i18n",
+    "npm": "https://www.npmjs.com/package/vue-i18n",
+    "website": "https://vue-i18n.intlify.dev/",
+    "author": {
+      "name": "intlify",
+      "url": "https://github.com/intlify"
+    },
+    "stars": 2501,
+    "downloads": 7177392
+  },
+  {
+    "id": "voerkai18n",
+    "name": "voerkai18n",
+    "description": "Nodejs/Vue/React International solutions",
+    "category": {
+      "main": "vue",
+      "children": "Internationalization"
+    },
+    "packageName": "@voerkai18n/vue",
+    "github": "https://github.com/zhangfisher/voerka-i18n",
+    "npm": "https://www.npmjs.com/package/@voerkai18n/vue",
+    "website": "https://zhangfisher.github.io/voerka-i18n/",
+    "author": {
+      "name": "zhangfisher",
+      "url": "https://github.com/zhangfisher"
+    },
+    "stars": 211,
+    "downloads": 129
+  },
+  {
+    "id": "eslint-plugin-vue",
+    "name": "ESLint Plugin Vue",
+    "description": "Official ESLint plugin for Vue.js",
+    "category": {
+      "main": "vue",
+      "children": "development tools"
+    },
+    "packageName": "eslint-plugin-vue",
+    "github": "https://github.com/vuejs/eslint-plugin-vue",
+    "npm": "https://www.npmjs.com/package/eslint-plugin-vue",
+    "website": "https://eslint.vuejs.org/",
+    "author": {
+      "name": "Vue",
+      "url": "https://github.com/vuejs"
+    },
+    "stars": 4555,
+    "downloads": 16492860
+  },
+  {
+    "id": "vite-plugin-vue-devtools",
+    "name": "Vite Plugin Vue DevTools",
+    "description": "⚙️ Browser devtools extension for debugging Vue.js applications.",
+    "category": {
+      "main": "vue",
+      "children": "development tools"
+    },
+    "packageName": "vite-plugin-vue-devtools",
+    "github": "https://github.com/vuejs/devtools",
+    "npm": "https://www.npmjs.com/package/vite-plugin-vue-devtools",
+    "website": "https://devtools.vuejs.org/",
+    "author": {
+      "name": "Arlo",
+      "url": "https://github.com/webfansplz"
+    },
+    "stars": 2491,
+    "downloads": 1869708
+  },
+  {
+    "id": "vue-demi",
+    "name": "Vue Demi",
+    "description": "🎩 Creates Universal Library for Vue 2 & 3",
+    "category": {
+      "main": "vue",
+      "children": "development tools"
+    },
+    "packageName": "vue-demi",
+    "github": "https://github.com/vueuse/vue-demi",
+    "npm": "https://www.npmjs.com/package/vue-demi",
+    "website": "https://github.com/vueuse/vue-demi",
+    "author": {
+      "name": "Anthony Fu",
+      "url": "https://github.com/antfu"
+    },
+    "stars": 3103,
+    "downloads": 17480832
+  },
+  {
+    "id": "vite-plugin-pwa",
+    "name": "Vite PWA",
+    "description": "Zero-config PWA for Vite",
+    "category": {
+      "main": "vue",
+      "children": "development tools"
+    },
+    "packageName": "vite-plugin-pwa",
+    "github": "https://github.com/vite-pwa/vite-plugin-pwa",
+    "npm": "https://www.npmjs.com/package/vite-plugin-pwa",
+    "website": "https://vite-pwa-org.netlify.app/",
+    "author": {
+      "name": "Joaquín Sánchez",
+      "url": "https://github.com/userquin"
+    },
+    "stars": 3700,
+    "downloads": 2568454
+  },
+  {
+    "id": "unplugin-vue-components",
+    "name": "unplugin-vue-components",
+    "description": "📲 On-demand components auto importing for Vue",
+    "category": {
+      "main": "vue",
+      "children": "development tools"
+    },
+    "packageName": "unplugin-vue-components",
+    "github": "https://github.com/unplugin/unplugin-vue-components",
+    "npm": "https://www.npmjs.com/package/unplugin-vue-components",
+    "website": "https://github.com/unplugin/unplugin-vue-components",
+    "author": {
+      "name": "Anthony Fu",
+      "url": "https://github.com/antfu"
+    },
+    "stars": 4127,
+    "downloads": 2270535
+  },
+  {
+    "id": "vue-test-utils",
+    "name": "Vue Test Utils",
+    "description": "Vue Test Utils for Vue 3",
+    "category": {
+      "main": "vue",
+      "children": "testing"
+    },
+    "packageName": "@vue/test-utils",
+    "github": "https://github.com/vuejs/test-utils",
+    "npm": "https://www.npmjs.com/package/@vue/test-utils",
+    "website": "https://test-utils.vuejs.org/",
+    "author": {
+      "name": "Lachlan Miller",
+      "url": "https://github.com/lmiller1990"
+    },
+    "stars": 1108,
+    "downloads": 9788298
+  },
+  {
+    "id": "motion-vue",
+    "name": "motion vue",
+    "description": "Motion for Vue",
+    "category": {
+      "main": "vue",
+      "children": "animation"
+    },
+    "packageName": "motion-v",
+    "github": "https://github.com/motiondivision/motion-vue",
+    "npm": "https://www.npmjs.com/package/motion-v",
+    "website": "https://motion.dev/docs/vue",
+    "author": {
+      "name": "Motion",
+      "url": "https://github.com/motiondivision"
+    },
+    "stars": 1968,
+    "downloads": 161846
+  },
+  {
+    "id": "vue-transitions",
+    "name": "Vue Transitions",
+    "description": "Interface transitions library for Vue 2/3",
+    "category": {
+      "main": "vue",
+      "children": "animation"
+    },
+    "packageName": "@morev/vue-transitions",
+    "github": "https://github.com/MorevM/vue-transitions",
+    "npm": "https://www.npmjs.com/package/@morev/vue-transitions",
+    "website": "https://morevm.github.io/vue-transitions/",
+    "author": {
+      "name": "Maxim Morev",
+      "url": "https://github.com/MorevM"
+    },
+    "stars": 217,
+    "downloads": 21201
+  },
+  {
+    "id": "animated-vue",
+    "name": "Animated Vue",
+    "description": "A plugin to use animate.css animations as Vue2 transitions",
+    "category": {
+      "main": "vue",
+      "children": "animation"
+    },
+    "packageName": "animated-vue",
+    "github": "https://github.com/radical-dreamers/animated-vue",
+    "npm": "https://www.npmjs.com/package/animated-vue",
+    "website": "https://github.com/radical-dreamers/animated-vue",
+    "author": {
+      "name": "Rodrigo Juliani",
+      "url": "https://github.com/dragonautdev"
+    },
+    "stars": 219,
+    "downloads": 59
+  },
+  {
+    "id": "VueLazyTransition",
+    "name": "Vue LazyTransition",
+    "description": "Vue plugin to trigger transitions or callbacks on scroll",
+    "category": {
+      "main": "vue",
+      "children": "animation"
+    },
+    "packageName": "vue-lazy-transition",
+    "github": "https://github.com/Recks11/VueLazyTransition",
+    "npm": "https://www.npmjs.com/package/vue-lazy-transition",
+    "website": "https://github.com/Recks11/VueLazyTransition",
+    "author": {
+      "name": "Rex Ijiekhuamen",
+      "url": "https://github.com/Recks11"
+    },
+    "stars": 3,
+    "downloads": 15
+  },
+  {
+    "id": "@vueuse/core",
+    "name": "Vue Use",
+    "description": "Collection of essential Vue Composition Utilities for Vue 3",
+    "category": {
+      "main": "vue",
+      "children": "util"
+    },
+    "packageName": "@vueuse/core",
+    "github": "https://github.com/vueuse/vueuse",
+    "npm": "https://www.npmjs.com/package/@vueuse/core",
+    "website": "https://vueuse.org/",
+    "author": {
+      "name": "Anthony Fu",
+      "url": "https://github.com/antfu"
+    },
+    "stars": 21458,
+    "downloads": 13438698
+  },
+  {
+    "id": "Vue Icons",
+    "name": "Vue Icons",
+    "description": "A comprehensive collection of icon components from multiple popular icon sets",
+    "category": {
+      "main": "vue",
+      "children": "util"
+    },
+    "packageName": "vue-icons-lib",
+    "github": "https://github.com/obiwanpelosi/vue-icons-package",
+    "npm": "https://www.npmjs.com/package/vue-icons-lib",
+    "website": "https://vueicons.netlify.app/",
+    "author": {
+      "name": "Obiwan Pelosi",
+      "url": "https://github.com/obiwanpelosi"
+    },
+    "stars": 2,
+    "downloads": 42
+  },
+  {
+    "id": "vue-socket.io-extended",
+    "name": "Vue Socket.IO",
+    "description": "✌️⚡ Socket.io bindings for Vue.js and Vuex (inspired by Vue-Socket.io)",
+    "category": {
+      "main": "vue",
+      "children": "util"
+    },
+    "packageName": "vue-socket.io-extended",
+    "github": "https://github.com/probil/vue-socket.io-extended",
+    "npm": "https://www.npmjs.com/package/vue-socket.io-extended",
+    "website": "https://github.com/probil/vue-socket.io-extended",
+    "author": {
+      "name": "Max Liashuk",
+      "url": "https://github.com/probil"
+    },
+    "stars": 625,
+    "downloads": 13292
+  },
+  {
+    "id": "vue3-lazyload",
+    "name": "Vue Lazyload",
+    "description": "A Vue3.x image lazyload plugin",
+    "category": {
+      "main": "vue",
+      "children": "util"
+    },
+    "packageName": "vue3-lazyload",
+    "github": "https://github.com/murongg/vue3-lazyload",
+    "npm": "https://www.npmjs.com/package/vue3-lazyload",
+    "website": "https://github.com/murongg/vue3-lazyload",
+    "author": {
+      "name": "MuRong",
+      "url": "https://github.com/murongg"
+    },
+    "stars": 182,
+    "downloads": 50523
+  },
+  {
+    "id": "vue3-cookies",
+    "name": "Vue Cookies",
+    "description": "A simple Vue.js plugin for handling browser cookies",
+    "category": {
+      "main": "vue",
+      "children": "util"
+    },
+    "packageName": "vue3-cookies",
+    "github": "https://github.com/cmp-cc/vue-cookies",
+    "npm": "https://www.npmjs.com/package/vue3-cookies",
+    "website": "https://github.com/cmp-cc/vue-cookies",
+    "author": {
+      "name": "cmp-cc",
+      "url": "https://github.com/cmp-cc"
+    },
+    "stars": 418,
+    "downloads": 115803
+  },
+  {
+    "id": "vue-clipboard3",
+    "name": "Vue Clipboard 3",
+    "description": "Easily copy to clipboard in Vue 3",
+    "category": {
+      "main": "vue",
+      "children": "util"
+    },
+    "packageName": "vue-clipboard3",
+    "github": "https://github.com/JamieCurnow/vue-clipboard3",
+    "npm": "https://www.npmjs.com/package/vue-clipboard3",
+    "website": "https://github.com/JamieCurnow/vue-clipboard3",
+    "author": {
+      "name": "Jamie Curnow",
+      "url": "https://github.com/JamieCurnow"
+    },
+    "stars": 143,
+    "downloads": 125541
+  },
+  {
+    "id": "vue-gtag",
+    "name": "Vue Gtag",
+    "description": "Global Site Tag plugin for Vue (gtag.js)",
+    "category": {
+      "main": "vue",
+      "children": "util"
+    },
+    "packageName": "vue-gtag",
+    "github": "https://github.com/MatteoGabriele/vue-gtag",
+    "npm": "https://www.npmjs.com/package/vue-gtag",
+    "website": "https://matteo-gabriele.gitbook.io/vue-gtag/",
+    "author": {
+      "name": "Matteo Gabriele",
+      "url": "https://github.com/MatteoGabriele"
+    },
+    "stars": 909,
+    "downloads": 481031
+  },
+  {
+    "id": "vue-virtual-scroller",
+    "name": "Vue Virtual Scroller",
+    "description": "⚡️ Blazing fast scrolling for any amount of data",
+    "category": {
+      "main": "vue",
+      "children": "util"
+    },
+    "packageName": "vue-virtual-scroller",
+    "github": "https://github.com/Akryum/vue-virtual-scroller",
+    "npm": "https://www.npmjs.com/package/vue-virtual-scroller",
+    "website": "https://vue-virtual-scroller-demo.netlify.app/",
+    "author": {
+      "name": "Guillaume Chau",
+      "url": "https://github.com/Akryum"
+    },
+    "stars": 10311,
+    "downloads": 1254508
+  },
+  {
+    "id": "unplugin-auto-import",
+    "name": "unplugin-auto-import",
+    "description": "Auto import APIs on-demand for Vite, Webpack and Rollup",
+    "category": {
+      "main": "vue",
+      "children": "util"
+    },
+    "packageName": "unplugin-auto-import",
+    "github": "https://github.com/antfu/unplugin-auto-import",
+    "npm": "https://www.npmjs.com/package/unplugin-auto-import",
+    "website": "https://github.com/antfu/unplugin-auto-import",
+    "author": {
+      "name": "Anthony Fu",
+      "url": "https://github.com/antfu"
+    },
+    "stars": 3605,
+    "downloads": 1522887
+  },
+  {
+    "id": "vue-observe-visibility",
+    "name": "Vue Observe Visibility",
+    "description": "Detect when an element is becoming visible or hidden on the page.",
+    "category": {
+      "main": "vue",
+      "children": "util"
+    },
+    "packageName": "vue-observe-visibility",
+    "github": "https://github.com/Akryum/vue-observe-visibility",
+    "npm": "https://www.npmjs.com/package/vue-observe-visibility",
+    "website": "https://github.com/Akryum/vue-observe-visibility",
+    "author": {
+      "name": "Guillaume Chau",
+      "url": "https://github.com/Akryum"
+    },
+    "stars": 1649,
+    "downloads": 1974987
+  },
+  {
+    "id": "portal-vue",
+    "name": "Portal Vue",
+    "description": "A feature-rich Portal Plugin for Vue 3, for rendering DOM outside of a component, anywhere in your app or the entire document. (Vue 2 version: v2.portal-vue.linusb.org)",
+    "category": {
+      "main": "vue",
+      "children": "util"
+    },
+    "packageName": "portal-vue",
+    "github": "https://github.com/LinusBorg/portal-vue",
+    "npm": "https://www.npmjs.com/package/portal-vue",
+    "website": "https://portal-vue.linusb.org/",
+    "author": {
+      "name": "Thorsten Lünborg",
+      "url": "https://github.com/LinusBorg"
+    },
+    "stars": 3906,
+    "downloads": 2019204
+  },
+  {
+    "id": "@sentry/vue",
+    "name": "Sentry Vue",
+    "description": "Official Sentry SDK for Vue.js applications with error monitoring, performance tracking, and session replay.",
+    "category": {
+      "main": "vue",
+      "children": "util"
+    },
+    "packageName": "@sentry/vue",
+    "github": "https://github.com/getsentry/sentry-javascript",
+    "npm": "https://www.npmjs.com/package/@sentry/vue",
+    "website": "https://docs.sentry.io/platforms/javascript/guides/vue/",
+    "author": {
+      "name": "Sentry",
+      "url": "https://github.com/getsentry"
+    },
+    "stars": 8356,
+    "downloads": 3265422
+  },
+  {
+    "id": "@unhead/vue",
+    "name": "Vue Meta",
+    "description": "The full stack <head> package for any framework.",
+    "category": {
+      "main": "vue",
+      "children": "util"
+    },
+    "packageName": "@unhead/vue",
+    "github": "https://github.com/unjs/unhead",
+    "npm": "https://www.npmjs.com/package/@unhead/vue",
+    "website": "https://unhead.unjs.io/",
+    "author": {
+      "name": "UnJS",
+      "url": "https://github.com/unjs"
+    },
+    "stars": 1034,
+    "downloads": 4138604
+  },
+  {
+    "id": "vue-draggable-plus",
+    "name": "Vue Draggable Plus",
+    "description": "Universal Drag-and-Drop Component Supporting both Vue 3 and Vue 2",
+    "category": {
+      "main": "vue",
+      "children": "util"
+    },
+    "packageName": "vue-draggable-plus",
+    "github": "https://github.com/Alfred-Skyblue/vue-draggable-plus",
+    "npm": "https://www.npmjs.com/package/vue-draggable-plus",
+    "website": "https://github.com/Alfred-Skyblue/vue-draggable-plus",
+    "author": {
+      "name": "远方os",
+      "url": "https://github.com/Alfred-Skyblue"
+    },
+    "stars": 3725,
+    "downloads": 364425
+  },
+  {
+    "id": "element-plus",
+    "name": "Element Plus",
+    "description": "🎉 A Vue.js 3 UI Library made by Element team",
+    "category": {
+      "main": "vue",
+      "children": "ui framework"
+    },
+    "packageName": "element-plus",
+    "github": "https://github.com/element-plus/element-plus",
+    "npm": "https://www.npmjs.com/package/element-plus",
+    "website": "https://element-plus.org/",
+    "author": {
+      "name": "iamkun",
+      "url": "https://github.com/iamkun"
+    },
+    "stars": 26342,
+    "downloads": 1277830
+  },
+  {
+    "id": "@nuxt/ui",
+    "name": "Nuxt Ui",
+    "description": "The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.",
+    "category": {
+      "main": "vue",
+      "children": "ui framework"
+    },
+    "packageName": "@nuxt/ui",
+    "github": "https://github.com/nuxt/ui",
+    "npm": "https://www.npmjs.com/package/@nuxt/ui",
+    "website": "https://ui.nuxt.com/",
+    "author": {
+      "name": "Benjamin Canac",
+      "url": "https://github.com/benjamincanac"
+    },
+    "stars": 5159,
+    "downloads": 413900
+  },
+  {
+    "id": "primevue",
+    "name": "Prime Vue",
+    "description": "Next Generation Vue UI Component Library",
+    "category": {
+      "main": "vue",
+      "children": "ui framework"
+    },
+    "packageName": "primevue",
+    "github": "https://github.com/primefaces/primevue",
+    "npm": "https://www.npmjs.com/package/primevue",
+    "website": "https://primevue.org/",
+    "author": {
+      "name": "PrimeTek",
+      "url": "https://github.com/primefaces"
+    },
+    "stars": 13120,
+    "downloads": 1467153
+  },
+  {
+    "id": "quasar",
+    "name": "Quasar",
+    "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time",
+    "category": {
+      "main": "vue",
+      "children": "ui framework"
+    },
+    "packageName": "quasar",
+    "github": "https://github.com/quasarframework/quasar",
+    "npm": "https://www.npmjs.com/package/quasar",
+    "website": "https://quasar.dev/",
+    "author": {
+      "name": "Quasar Framework",
+      "url": "https://github.com/quasarframework"
+    },
+    "stars": 26747,
+    "downloads": 671583
+  },
+  {
+    "id": "vuetify",
+    "name": "vuetify",
+    "description": "🐉 Vue Component Framework",
+    "category": {
+      "main": "vue",
+      "children": "ui framework"
+    },
+    "packageName": "vuetify",
+    "github": "https://github.com/vuetifyjs/vuetify",
+    "npm": "https://www.npmjs.com/package/vuetify",
+    "website": "https://vuetifyjs.com",
+    "author": {
+      "name": "Vuetify",
+      "url": "https://github.com/vuetifyjs"
+    },
+    "stars": 40640,
+    "downloads": 2640567
+  },
+  {
+    "id": "reka-ui",
+    "name": "Reka UI",
+    "description": "An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue",
+    "category": {
+      "main": "vue",
+      "children": "ui framework"
+    },
+    "packageName": "reka-ui",
+    "github": "https://github.com/unovue/reka-ui",
+    "npm": "https://www.npmjs.com/package/reka-ui",
+    "website": "https://reka-ui.com/",
+    "author": {
+      "name": "unovue",
+      "url": "https://github.com/unovue"
+    },
+    "stars": 5296,
+    "downloads": 1217926
+  },
+  {
+    "id": "shadcn-vue",
+    "name": "Shadcn Vue UI",
+    "description": "Vue port of shadcn-ui",
+    "category": {
+      "main": "vue",
+      "children": "ui framework"
+    },
+    "packageName": "shadcn-vue",
+    "github": "https://github.com/unovue/shadcn-vue",
+    "npm": "https://www.npmjs.com/package/shadcn-vue",
+    "website": "https://www.shadcn-vue.com/",
+    "author": {
+      "name": "unovue",
+      "url": "https://github.com/unovue"
+    },
+    "stars": 7898,
+    "downloads": 39557
+  },
+  {
+    "id": "naive-ui",
+    "name": "Naive UI",
+    "description": "A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.",
+    "category": {
+      "main": "vue",
+      "children": "ui framework"
+    },
+    "packageName": "naive-ui",
+    "github": "https://github.com/tusen-ai/naive-ui",
+    "npm": "https://www.npmjs.com/package/naive-ui",
+    "website": "https://www.naiveui.com/zh-CN/os-theme",
+    "author": {
+      "name": "tusen-ai",
+      "url": "https://github.com/tusen-ai"
+    },
+    "stars": 17500,
+    "downloads": 176629
+  },
+  {
+    "id": "Daisy UI",
+    "name": "Daisy UI",
+    "description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
+    "category": {
+      "main": "vue",
+      "children": "ui framework"
+    },
+    "packageName": "daisyui",
+    "github": "https://github.com/saadeghi/daisyui",
+    "npm": "https://www.npmjs.com/package/daisyui",
+    "website": "https://daisyui.com/",
+    "author": {
+      "name": "Pouya Saadeghi",
+      "url": "https://github.com/saadeghi"
+    },
+    "stars": 38153,
+    "downloads": 1856038
+  },
+  {
+    "id": "Flowbite",
+    "name": "Flowbite",
+    "description": "Open-source UI component library and front-end development framework based on Tailwind CSS",
+    "category": {
+      "main": "vue",
+      "children": "ui framework"
+    },
+    "packageName": "flowbite",
+    "github": "https://github.com/themesberg/flowbite",
+    "npm": "https://www.npmjs.com/package/flowbite",
+    "website": "https://flowbite.com/",
+    "author": {
+      "name": "Themesberg",
+      "url": "https://github.com/themesberg"
+    },
+    "stars": 8731,
+    "downloads": 1689553
+  },
+  {
+    "id": "ant-design-vue",
+    "name": "Ant Design Vue",
+    "description": "🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜",
+    "category": {
+      "main": "vue",
+      "children": "ui framework"
+    },
+    "packageName": "ant-design-vue",
+    "github": "https://github.com/vueComponent/ant-design-vue",
+    "npm": "https://www.npmjs.com/package/ant-design-vue",
+    "website": "https://antdv.com",
+    "author": {
+      "name": "vueComponent",
+      "url": "https://github.com/vueComponent"
+    },
+    "stars": 20990,
+    "downloads": 396424
+  },
+  {
+    "id": "@ark-ui/vue",
+    "name": "Ark UI",
+    "description": "Build high-quality, accessible design systems design system. Works in React, Svelte, Vue, and Solid",
+    "category": {
+      "main": "vue",
+      "children": "ui framework"
+    },
+    "packageName": "@ark-ui/vue",
+    "github": "https://github.com/chakra-ui/ark",
+    "npm": "https://www.npmjs.com/package/@ark-ui/vue",
+    "website": "https://ark-ui.com/",
+    "author": {
+      "name": "Segun Adebayo",
+      "url": "https://github.com/segunadebayo"
+    },
+    "stars": 4512,
+    "downloads": 24032
+  },
+  {
+    "id": "vuestic-ui",
+    "name": "Vuestic UI",
+    "description": "Vuestic UI is an open-source Vue 3 component library designed for rapid development, easy maintenance, and high accessibility.",
+    "category": {
+      "main": "vue",
+      "children": "ui framework"
+    },
+    "packageName": "vuestic-ui",
+    "github": "https://github.com/epicmaxco/vuestic-ui",
+    "npm": "https://www.npmjs.com/package/vuestic-ui",
+    "website": "https://ui.vuestic.dev/",
+    "author": {
+      "name": "Epicmax",
+      "url": "https://github.com/epicmaxco"
+    },
+    "stars": 3643,
+    "downloads": 10437
+  },
+  {
+    "id": "vite-plugin-pages",
+    "name": "vite-plugin-pages",
+    "description": "File system based route generator for ⚡️Vite",
+    "category": {
+      "main": "vite",
+      "children": "vue plugins"
+    },
+    "packageName": "vite-plugin-pages",
+    "github": "https://github.com/hannoeru/vite-plugin-pages",
+    "npm": "https://www.npmjs.com/package/vite-plugin-pages",
+    "website": "https://github.com/hannoeru/vite-plugin-pages",
+    "author": {
+      "name": "ハン / Han",
+      "url": "https://github.com/hannoeru"
+    },
+    "stars": 2024,
+    "downloads": 248329
+  },
+  {
+    "id": "rollup-plugin-visualizer",
+    "name": "rollup-plugin-visualizer",
+    "description": "📈⚖️ Visuallize your bundle",
+    "category": {
+      "main": "vite",
+      "children": "vue plugins"
+    },
+    "packageName": "rollup-plugin-visualizer",
+    "github": "https://github.com/btd/rollup-plugin-visualizer",
+    "npm": "https://www.npmjs.com/package/rollup-plugin-visualizer",
+    "website": "https://github.com/btd/rollup-plugin-visualizer",
+    "author": {
+      "name": "Denis Bardadym",
+      "url": "https://github.com/btd"
+    },
+    "stars": 2197,
+    "downloads": 10027698
+  },
+  {
+    "id": "vite-plugin-restart",
+    "name": "vite-plugin-restart",
+    "description": "Custom files/globs to restart Vite server",
+    "category": {
+      "main": "vite",
+      "children": "vue plugins"
+    },
+    "packageName": "vite-plugin-restart",
+    "github": "https://github.com/antfu/vite-plugin-restart",
+    "npm": "https://www.npmjs.com/package/vite-plugin-restart",
+    "website": "https://github.com/antfu/vite-plugin-restart",
+    "author": {
+      "name": "Anthony Fu",
+      "url": "https://github.com/antfu"
+    },
+    "stars": 197,
+    "downloads": 125358
+  },
+  {
+    "id": "unplugin-vue-components",
+    "name": "unplugin-vue-components",
+    "description": "📲 On-demand components auto importing for Vue",
+    "category": {
+      "main": "vite",
+      "children": "vue plugins"
+    },
+    "packageName": "unplugin-vue-components",
+    "github": "https://github.com/unplugin/unplugin-vue-components",
+    "npm": "https://www.npmjs.com/package/unplugin-vue-components",
+    "website": "https://github.com/unplugin/unplugin-vue-components",
+    "author": {
+      "name": "Unplugin",
+      "url": "https://github.com/unplugin"
+    },
+    "stars": 4127,
+    "downloads": 2270535
+  },
+  {
+    "id": "vite-plugin-style-import",
+    "name": "vite-plugin-style-import",
+    "description": "A plug-in that imports component library styles on demand.it is fast",
+    "category": {
+      "main": "vite",
+      "children": "vue plugins"
+    },
+    "packageName": "vite-plugin-style-import",
+    "github": "https://github.com/vbenjs/vite-plugin-style-import",
+    "npm": "https://www.npmjs.com/package/vite-plugin-style-import",
+    "website": "https://github.com/vbenjs/vite-plugin-style-import",
+    "author": {
+      "name": "Vben",
+      "url": "https://github.com/anncwb"
+    },
+    "stars": 448,
+    "downloads": 79220
+  },
+  {
+    "id": "unplugin-auto-import",
+    "name": "unplugin-auto-import",
+    "description": "Auto import APIs on-demand for Vite, Webpack and Rollup",
+    "category": {
+      "main": "vite",
+      "children": "vue plugins"
+    },
+    "packageName": "unplugin-auto-import",
+    "github": "https://github.com/unplugin/unplugin-auto-import",
+    "npm": "https://www.npmjs.com/package/unplugin-auto-import",
+    "website": "https://github.com/unplugin/unplugin-auto-import",
+    "author": {
+      "name": "Unplugin",
+      "url": "https://github.com/unplugin"
+    },
+    "stars": 3605,
+    "downloads": 1522887
+  },
+  {
+    "id": "vite-plugin-svg-icons",
+    "name": "vite-plugin-svg-icons",
+    "description": "Vite Plugin for fast creating SVG sprites",
+    "category": {
+      "main": "vite",
+      "children": "vue plugins"
+    },
+    "packageName": "vite-plugin-svg-icons",
+    "github": "https://github.com/vbenjs/vite-plugin-svg-icons",
+    "npm": "https://www.npmjs.com/package/vite-plugin-svg-icons",
+    "website": "https://github.com/vbenjs/vite-plugin-svg-icons",
+    "author": {
+      "name": "Vben",
+      "url": "https://github.com/anncwb"
+    },
+    "stars": 907,
+    "downloads": 178686
+  },
+  {
+    "id": "vite-plugin-html",
+    "name": "vite-plugin-html",
+    "description": "A vite plugin for processing html. It is developed based on lodash template",
+    "category": {
+      "main": "vite",
+      "children": "vue plugins"
+    },
+    "packageName": "vite-plugin-html",
+    "github": "https://github.com/vbenjs/vite-plugin-html",
+    "npm": "https://www.npmjs.com/package/vite-plugin-html",
+    "website": "https://github.com/vbenjs/vite-plugin-html",
+    "author": {
+      "name": "Vben",
+      "url": "https://github.com/anncwb"
+    },
+    "stars": 663,
+    "downloads": 1358024
+  },
+  {
+    "id": "vite-plugin-compression",
+    "name": "vite-plugin-compression",
+    "description": "Use gzip or brotli to compress resources",
+    "category": {
+      "main": "vite",
+      "children": "vue plugins"
+    },
+    "packageName": "vite-plugin-compression",
+    "github": "https://github.com/vbenjs/vite-plugin-compression",
+    "npm": "https://www.npmjs.com/package/vite-plugin-compression",
+    "website": "https://github.com/vbenjs/vite-plugin-compression",
+    "author": {
+      "name": "Vben",
+      "url": "https://github.com/anncwb"
+    },
+    "stars": 439,
+    "downloads": 860813
+  },
+  {
+    "id": "vite-plugin-imagemin",
+    "name": "vite-plugin-imagemin",
+    "description": "A vite plugin for compressing image assets.",
+    "category": {
+      "main": "vite",
+      "children": "vue plugins"
+    },
+    "packageName": "vite-plugin-imagemin",
+    "github": "https://github.com/vbenjs/vite-plugin-imagemin",
+    "npm": "https://www.npmjs.com/package/vite-plugin-imagemin",
+    "website": "https://github.com/vbenjs/vite-plugin-imagemin",
+    "author": {
+      "name": "Vben",
+      "url": "https://github.com/anncwb"
+    },
+    "stars": 246,
+    "downloads": 71285
+  },
+  {
+    "id": "vite-plugin-purge-icons",
+    "name": "vite-plugin-purge-icons",
+    "description": "🎐 Bundles icons on demand",
+    "category": {
+      "main": "vite",
+      "children": "vue plugins"
+    },
+    "packageName": "vite-plugin-purge-icons",
+    "github": "https://github.com/antfu/purge-icons",
+    "npm": "https://www.npmjs.com/package/vite-plugin-purge-icons",
+    "website": "https://github.com/antfu/purge-icons",
+    "author": {
+      "name": "Anthony Fu",
+      "url": "https://github.com/antfu"
+    },
+    "stars": 231,
+    "downloads": 38761
+  },
+  {
+    "id": "vite-plugin-vue",
+    "name": "Vite Vue Plugins",
+    "description": "Vite Vue Plugins",
+    "category": {
+      "main": "vite",
+      "children": "vue plugins"
+    },
+    "packageName": "@vitejs/plugin-vue",
+    "github": "https://github.com/vitejs/vite-plugin-vue",
+    "npm": "https://www.npmjs.com/package/@vitejs/plugin-vue",
+    "website": "https://github.com/vitejs/vite-plugin-vue",
+    "author": {
+      "name": "Evan You",
+      "url": "https://github.com/yyx990803"
+    },
+    "stars": 600,
+    "downloads": 13737818
+  },
+  {
+    "id": "vite-plugin-vue-setup-extend",
+    "name": "vite-plugin-vue-setup-extend",
+    "description": "Extending the vue script setup syntactic sugar",
+    "category": {
+      "main": "vite",
+      "children": "vue plugins"
+    },
+    "packageName": "vite-plugin-vue-setup-extend",
+    "github": "https://github.com/vbenjs/vite-plugin-vue-setup-extend",
+    "npm": "https://www.npmjs.com/package/vite-plugin-vue-setup-extend",
+    "website": "https://github.com/vbenjs/vite-plugin-vue-setup-extend",
+    "author": {
+      "name": "Vben",
+      "url": "https://github.com/anncwb"
+    },
+    "stars": 156,
+    "downloads": 27649
+  },
+  {
+    "id": "@vitejs/plugin-legacy",
+    "name": "@vitejs/plugin-legacy",
+    "description": "Next generation frontend tooling. It's fast!",
+    "category": {
+      "main": "vite",
+      "children": "vue plugins"
+    },
+    "packageName": "@vitejs/plugin-legacy",
+    "github": "https://github.com/vitejs/vite",
+    "npm": "https://www.npmjs.com/package/@vitejs/plugin-legacy",
+    "website": "https://vite.dev/",
+    "author": {
+      "name": "Evan You",
+      "url": "https://github.com/yyx990803"
+    },
+    "stars": 74513,
+    "downloads": 1756126
+  },
+  {
+    "id": "vite-plugin-vue-images",
+    "name": "vite-plugin-vue-images",
+    "description": "Auto import images for Vite+Vue projects",
+    "category": {
+      "main": "vite",
+      "children": "vue plugins"
+    },
+    "packageName": "vite-plugin-vue-images",
+    "github": "https://github.com/sampullman/vite-plugin-vue-images",
+    "npm": "https://www.npmjs.com/package/vite-plugin-vue-images",
+    "website": "https://github.com/sampullman/vite-plugin-vue-images",
+    "author": {
+      "name": "Sam Pullman",
+      "url": "https://github.com/sampullman"
+    },
+    "stars": 11,
+    "downloads": 1356
+  }
 ]
