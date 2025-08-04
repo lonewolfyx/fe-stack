@@ -2216,5 +2216,100 @@
     },
     "stars": 11,
     "downloads": 1296
-  }
+  },
+    {
+        "id": "fs-extra",
+        "name": "fs-extra",
+        "description": "Node.js: extra methods for the fs object like copy(), remove(), mkdirs()",
+        "category": {
+            "main": "file",
+            "children": "file"
+        },
+        "packageName": "fs-extra",
+        "github": "https://github.com/jprichardson/node-fs-extra",
+        "npm": "https://www.npmjs.com/package/fs-extra",
+        "website": "https://github.com/jprichardson/node-fs-extra",
+        "author": {
+            "name": "JP Richardson",
+            "url": "https://github.com/jprichardson"
+        },
+        "stars": 9579,
+        "downloads": 490321836
+    },
+    {
+        "id": "@types/fs-extra",
+        "name": "@types/fs-extra",
+        "description": "The repository for high quality TypeScript type definitions.",
+        "category": {
+            "main": "file",
+            "children": "file"
+        },
+        "packageName": "@types/fs-extra",
+        "github": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+        "npm": "https://www.npmjs.com/package/@types/fs-extra",
+        "website": "https://github.com/DefinitelyTyped",
+        "author": {
+            "name": "DefinitelyTyped",
+            "url": "https://github.com/DefinitelyTyped"
+        },
+        "stars": 50135,
+        "downloads": 29221780
+    },
+    {
+        "id": "find-up",
+        "name": "find-up",
+        "description": "xxxx",
+        "category": {
+            "main": "file",
+            "children": "file"
+        },
+        "packageName": "find-up",
+        "github": "https://github.com/sindresorhus/find-up",
+        "npm": "https://www.npmjs.com/package/find-up",
+        "website": "Find a file or directory by walking up parent directories",
+        "author": {
+            "name": "Sindre Sorhus",
+            "url": "https://github.com/sindresorhus"
+        },
+        "stars": 619,
+        "downloads": 750906524
+    },
+    {
+        "id": "glob",
+        "name": "glob",
+        "description": "glob functionality for node.js",
+        "category": {
+            "main": "file",
+            "children": "file"
+        },
+        "packageName": "glob",
+        "github": "https://github.com/isaacs/node-glob",
+        "npm": "https://www.npmjs.com/package/glob",
+        "website": "https://github.com/isaacs/node-glob",
+        "author": {
+            "name": "isaacs",
+            "url": "https://github.com/isaacs"
+        },
+        "stars": 8638,
+        "downloads": 871486856
+    },
+    {
+        "id": "rimraf",
+        "name": "rimraf",
+        "description": "A `rm -rf` util for nodejs",
+        "category": {
+            "main": "file",
+            "children": "file"
+        },
+        "packageName": "rimraf",
+        "github": "https://github.com/isaacs/rimraf",
+        "npm": "https://www.npmjs.com/package/rimraf",
+        "website": "https://github.com/isaacs/rimraf",
+        "author": {
+            "name": "isaacs",
+            "url": "https://github.com/isaacs"
+        },
+        "stars": 5789,
+        "downloads": 451700671
+    }
 ]
