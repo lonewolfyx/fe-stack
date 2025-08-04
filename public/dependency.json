@@ -2258,7 +2258,7 @@
   {
     "id": "find-up",
     "name": "find-up",
-    "description": "xxxx",
+    "description": "Find a file or directory by walking up parent directories",
     "category": {
       "main": "file",
       "children": "file"
@@ -2266,7 +2266,7 @@
     "packageName": "find-up",
     "github": "https://github.com/sindresorhus/find-up",
     "npm": "https://www.npmjs.com/package/find-up",
-    "website": "Find a file or directory by walking up parent directories",
+    "website": "https://github.com/sindresorhus/find-up",
     "author": {
       "name": "Sindre Sorhus",
       "url": "https://github.com/sindresorhus"
