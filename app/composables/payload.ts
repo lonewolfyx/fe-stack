@@ -25,6 +25,5 @@ export const init = () => {
     }
 
     data.value = result
-    console.log('result', JSON.stringify(result))
     isLoading.value = false
 }
