@@ -2387,5 +2387,62 @@
     },
     "stars": 44944,
     "downloads": 149636799
+  },
+  {
+    "id": "lodash",
+    "name": "lodash",
+    "description": "A modern JavaScript utility library delivering modularity, performance, & extras.",
+    "category": {
+      "main": "util",
+      "children": "util"
+    },
+    "packageName": "lodash",
+    "github": "https://github.com/lodash/lodash",
+    "npm": "https://www.npmjs.com/package/lodash",
+    "website": "https://lodash.com/",
+    "author": {
+      "name": "lodash",
+      "url": "https://github.com/lodash"
+    },
+    "stars": 60803,
+    "downloads": 339611739
+  },
+  {
+    "id": "es-toolkit",
+    "name": "es-toolkit",
+    "description": "A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.",
+    "category": {
+      "main": "util",
+      "children": "util"
+    },
+    "packageName": "es-toolkit",
+    "github": "https://github.com/toss/es-toolkit",
+    "npm": "https://www.npmjs.com/package/es-toolkit",
+    "website": "https://es-toolkit.dev",
+    "author": {
+      "name": "toss",
+      "url": "https://github.com/toss"
+    },
+    "stars": 9440,
+    "downloads": 12361291
+  },
+  {
+    "id": "radash",
+    "name": "radash",
+    "description": "Functional utility library - modern, simple, typed, powerful",
+    "category": {
+      "main": "util",
+      "children": "util"
+    },
+    "packageName": "radash",
+    "github": "https://github.com/sodiray/radash",
+    "npm": "https://www.npmjs.com/package/radash",
+    "website": "https://radash-docs.vercel.app",
+    "author": {
+      "name": "sodiray",
+      "url": "https://github.com/sodiray"
+    },
+    "stars": 4735,
+    "downloads": 1273030
   }
 ]
