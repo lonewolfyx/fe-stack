@@ -2311,5 +2311,81 @@
     },
     "stars": 5789,
     "downloads": 460776419
+  },
+  {
+    "id": "minimist",
+    "name": "minimist",
+    "description": "parse argument options",
+    "category": {
+      "main": "scaffolding",
+      "children": "command"
+    },
+    "packageName": "minimist",
+    "github": "https://github.com/minimistjs/minimist",
+    "npm": "https://www.npmjs.com/package/minimist",
+    "website": "",
+    "author": {
+      "name": "minimistjs",
+      "url": "https://github.com/minimistjs"
+    },
+    "stars": 622,
+    "downloads": 359336252
+  },
+  {
+    "id": "vitest",
+    "name": "vitest",
+    "description": "Next generation testing framework powered by Vite.",
+    "category": {
+      "main": "test",
+      "children": "test"
+    },
+    "packageName": "vitest",
+    "github": "https://github.com/vitest-dev/vitest",
+    "npm": "https://www.npmjs.com/package/vitest",
+    "website": "https://vitest.dev",
+    "author": {
+      "name": "vitest-dev",
+      "url": "https://github.com/vitest-dev"
+    },
+    "stars": 14739,
+    "downloads": 55335708
+  },
+  {
+    "id": "rstest",
+    "name": "rstest",
+    "description": "The testing framework powered by Rspack.",
+    "category": {
+      "main": "test",
+      "children": "web infra dev"
+    },
+    "packageName": "@rstest/core",
+    "github": "https://github.com/web-infra-dev/rstest",
+    "npm": "https://www.npmjs.com/package/@rstest/core",
+    "website": "https://rstest.rs",
+    "author": {
+      "name": "web-infra-dev",
+      "url": "https://github.com/web-infra-dev"
+    },
+    "stars": 349,
+    "downloads": 10114
+  },
+  {
+    "id": "jest",
+    "name": "jest",
+    "description": "Delightful JavaScript Testing.",
+    "category": {
+      "main": "test",
+      "children": "test"
+    },
+    "packageName": "jest",
+    "github": "https://github.com/jestjs/jest",
+    "npm": "https://www.npmjs.com/package/jest",
+    "website": "https://jestjs.io",
+    "author": {
+      "name": "jestjs",
+      "url": "https://github.com/jestjs"
+    },
+    "stars": 44944,
+    "downloads": 149636799
   }
 ]
