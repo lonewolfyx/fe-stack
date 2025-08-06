@@ -13,17 +13,26 @@ export const init = () => {
     for (const item of dependenciesData as IDependency[]) {
         const { main, children } = item.category
 
-        if (!result[main]) {
-            result[main] = {}
+        const core = capitalize(main.toLowerCase())
+        const child = capitalize(children.toLowerCase())
+
+        if (!result[core]) {
+            result[core] = {}
         }
 
-        if (!result[main][children]) {
-            result[main][children] = []
+        if (!result[core][child]) {
+            result[core][child] = []
         }
 
-        result[main][children].push(item)
+        result[core][child].push(item)
     }
+    const sorted: IPayload = Object.create(null)
+    Object.keys(result)
+        .sort((a, b) => a.localeCompare(b))
+        .forEach((key) => {
+            sorted[key] = result[key] as Record<string, IDependency[]>
+        })
 
-    data.value = result
+    data.value = sorted
     isLoading.value = false
 }
