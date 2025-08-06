@@ -2444,5 +2444,24 @@
     },
     "stars": 4737,
     "downloads": 1273030
+  },
+  {
+    "id": "heroicons",
+    "name": "heroicons",
+    "description": "A set of free MIT-licensed high-quality SVG icons for UI development.",
+    "category": {
+      "main": "icon",
+      "children": "icon"
+    },
+    "packageName": "@heroicons/vue",
+    "github": "https://github.com/tailwindlabs/heroicons",
+    "npm": "https://www.npmjs.com/package/@heroicons/vue",
+    "website": "https://heroicons.com",
+    "author": {
+      "name": "tailwindlabs",
+      "url": "https://github.com/tailwindlabs"
+    },
+    "stars": 22746,
+    "downloads": 757101
   }
 ]
