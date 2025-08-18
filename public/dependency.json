@@ -2463,5 +2463,24 @@
     },
     "stars": 22798,
     "downloads": 737135
+  },
+  {
+    "id": "jiti",
+    "name": "jiti",
+    "description": "Runtime TypeScript and ESM support for Node.js",
+    "category": {
+      "main": "file",
+      "children": "file"
+    },
+    "packageName": "jiti",
+    "github": "https://github.com/unjs/jiti",
+    "npm": "https://www.npmjs.com/package/jiti",
+    "website": "https://github.com/unjs/jiti",
+    "author": {
+      "name": "pi0",
+      "url": "https://github.com/pi0"
+    },
+    "stars": 24798,
+    "downloads": 41450246
   }
 ]
