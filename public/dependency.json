@@ -2482,5 +2482,81 @@
     },
     "stars": 2414,
     "downloads": 184441421
+  },
+  {
+    "id": "unconfig",
+    "name": "unconfig",
+    "description": "A universal solution for loading configurations.",
+    "category": {
+      "main": "file",
+      "children": "file"
+    },
+    "packageName": "unconfig",
+    "github": "https://github.com/antfu-collective/unconfig",
+    "npm": "https://www.npmjs.com/package/unconfig",
+    "website": "https://github.com/antfu-collective/unconfig",
+    "author": {
+      "name": "Anthony Fu",
+      "url": "https://github.com/antfu"
+    },
+    "stars": 700,
+    "downloads": 1892296
+  },
+  {
+    "id": "deepmerge",
+    "name": "deepmerge",
+    "description": "A library for deep (recursive) merging of Javascript objects",
+    "category": {
+      "main": "util",
+      "children": "util"
+    },
+    "packageName": "deepmerge",
+    "github": "https://github.com/TehShrike/deepmerge",
+    "npm": "https://www.npmjs.com/package/deepmerge",
+    "website": "https://github.com/TehShrike/deepmerge",
+    "author": {
+      "name": "Josh Duff",
+      "url": "https://github.com/TehShrike"
+    },
+    "stars": 2804,
+    "downloads": 203956386
+  },
+  {
+    "id": "c12",
+    "name": "c12",
+    "description": "⚙️ Smart Configuration Loader",
+    "category": {
+      "main": "file",
+      "children": "file"
+    },
+    "packageName": "c12",
+    "github": "https://github.com/unjs/c12",
+    "npm": "https://www.npmjs.com/package/c12",
+    "website": "https://github.com/unjs/c12",
+    "author": {
+      "name": "Pooya Parsa",
+      "url": "https://github.com/pi0"
+    },
+    "stars": 744,
+    "downloads": 16528421
+  },
+  {
+    "id": "ofetch",
+    "name": "ofetch",
+    "description": "😱 A better fetch API. Works on node, browser and workers.",
+    "category": {
+      "main": "util",
+      "children": "request"
+    },
+    "packageName": "ofetch",
+    "github": "https://github.com/unjs/ofetch",
+    "npm": "https://www.npmjs.com/package/ofetch",
+    "website": "https://github.com/unjs/ofetch",
+    "author": {
+      "name": "Pooya Parsa",
+      "url": "https://github.com/pi0"
+    },
+    "stars": 4778,
+    "downloads": 9739040
   }
 ]
