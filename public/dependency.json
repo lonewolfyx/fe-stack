@@ -2558,5 +2558,24 @@
     },
     "stars": 5063,
     "downloads": 0
+  },
+  {
+    "id": "boxen",
+    "name": "boxen",
+    "description": "Create boxes in the terminal",
+    "category": {
+      "main": "scaffolding",
+      "children": "Beautification Output"
+    },
+    "packageName": "boxen",
+    "github": "https://github.com/sindresorhus/boxen",
+    "npm": "https://www.npmjs.com/package/boxen",
+    "website": "https://github.com/sindresorhus/boxen",
+    "author": {
+      "name": "sindresorhus",
+      "url": "https://github.com/sindresorhus"
+    },
+    "stars": 1649,
+    "downloads": 72275189
   }
 ]
