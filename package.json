@@ -15,8 +15,8 @@
     "dependencies": {
         "@arco-design/web-vue": "^2.57.0",
         "@tailwindcss/vite": "^4.1.11",
-        "@vueuse/core": "^13.5.0",
-        "@vueuse/nuxt": "^13.5.0",
+        "@vueuse/core": "^14.0.0",
+        "@vueuse/nuxt": "^14.0.0",
         "class-variance-authority": "^0.7.1",
         "clsx": "^2.1.1",
         "dotenv": "^17.2.1",
