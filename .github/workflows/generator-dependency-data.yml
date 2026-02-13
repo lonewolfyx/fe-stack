@@ -39,7 +39,7 @@ jobs:
         run: REQUEST_TOKEN=${{secrets.REQUEST_TOKEN}} npm run gen:data
 
       - name: "Commit"
-        uses: EndBug/add-and-commit@v4
+        uses: EndBug/add-and-commit@v9
         with:
           author_name: lonewolfyx
           author_email: 877085893@qq.com
