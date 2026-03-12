@@ -15,8 +15,8 @@
       "name": "tj",
       "url": "https://github.com/tj"
     },
-    "stars": 27994,
-    "downloads": 1271531544
+    "stars": 27996,
+    "downloads": 1266084853
   },
   {
     "id": "cac",
@@ -34,8 +34,8 @@
       "name": "egoist",
       "url": "https://github.com/egoist"
     },
-    "stars": 2998,
-    "downloads": 103070227
+    "stars": 3000,
+    "downloads": 102867748
   },
   {
     "id": "Yargs",
@@ -53,8 +53,8 @@
       "name": "yargs",
       "url": "https://github.com/yargs"
     },
-    "stars": 11457,
-    "downloads": 675002495
+    "stars": 11458,
+    "downloads": 671481191
   },
   {
     "id": "prompts",
@@ -73,7 +73,7 @@
       "url": "https://github.com/terkelg"
     },
     "stars": 9251,
-    "downloads": 167595004
+    "downloads": 166329163
   },
   {
     "id": "@clack/prompts",
@@ -91,8 +91,8 @@
       "name": "bombshell",
       "url": "https://github.com/bombshell-dev"
     },
-    "stars": 7500,
-    "downloads": 24858859
+    "stars": 7506,
+    "downloads": 24913665
   },
   {
     "id": "Inquirer.js",
@@ -110,8 +110,8 @@
       "name": "SBoudrias",
       "url": "https://github.com/SBoudrias"
     },
-    "stars": 21471,
-    "downloads": 76548789
+    "stars": 21472,
+    "downloads": 76477735
   },
   {
     "id": "Enquirer",
@@ -130,7 +130,7 @@
       "url": "https://github.com/jonschlinkert"
     },
     "stars": 7933,
-    "downloads": 106210014
+    "downloads": 105693609
   },
   {
     "id": "figlet",
@@ -149,7 +149,7 @@
       "url": "https://github.com/patorjk"
     },
     "stars": 2940,
-    "downloads": 8805781
+    "downloads": 8764571
   },
   {
     "id": "picocolors",
@@ -168,7 +168,7 @@
       "url": "https://github.com/alexeyraspopov"
     },
     "stars": 1673,
-    "downloads": 526890911
+    "downloads": 524674477
   },
   {
     "id": "ansis",
@@ -187,7 +187,7 @@
       "url": "https://github.com/webdiscus"
     },
     "stars": 475,
-    "downloads": 61416332
+    "downloads": 61400329
   },
   {
     "id": "vite",
@@ -205,8 +205,8 @@
       "name": "Evan You",
       "url": "https://github.com/yyx990803"
     },
-    "stars": 78799,
-    "downloads": 281545349
+    "stars": 78808,
+    "downloads": 281068755
   },
   {
     "id": "esbuild",
@@ -224,8 +224,8 @@
       "name": "Evan Wallace",
       "url": "https://github.com/evanw"
     },
-    "stars": 39880,
-    "downloads": 523209748
+    "stars": 39874,
+    "downloads": 521480006
   },
   {
     "id": "unbuild",
@@ -244,7 +244,7 @@
       "url": "https://github.com/unjs"
     },
     "stars": 2726,
-    "downloads": 828536
+    "downloads": 812623
   },
   {
     "id": "rollup",
@@ -263,7 +263,7 @@
       "url": "https://github.com/rollup"
     },
     "stars": 26249,
-    "downloads": 339070207
+    "downloads": 338209781
   },
   {
     "id": "rolldown",
@@ -281,8 +281,8 @@
       "name": "Rolldown",
       "url": "https://github.com/rolldown/"
     },
-    "stars": 13001,
-    "downloads": 21754520
+    "stars": 13006,
+    "downloads": 21937485
   },
   {
     "id": "tsup",
@@ -300,8 +300,8 @@
       "name": "egoist",
       "url": "https://github.com/egoist"
     },
-    "stars": 11154,
-    "downloads": 16779369
+    "stars": 11156,
+    "downloads": 16729951
   },
   {
     "id": "tsdown",
@@ -320,7 +320,7 @@
       "url": "https://github.com/sxzz"
     },
     "stars": 3616,
-    "downloads": 5001360
+    "downloads": 5029412
   },
   {
     "id": "parcel",
@@ -338,8 +338,8 @@
       "name": "Parcel",
       "url": "https://github.com/parcel-bundler"
     },
-    "stars": 44047,
-    "downloads": 1228793
+    "stars": 44045,
+    "downloads": 1229732
   },
   {
     "id": "turborepo",
@@ -357,8 +357,8 @@
       "name": "Vercel",
       "url": "https://github.com/vercel"
     },
-    "stars": 29979,
-    "downloads": 40709567
+    "stars": 29982,
+    "downloads": 40755471
   },
   {
     "id": "Rspack",
@@ -376,8 +376,8 @@
       "name": "Web Infra",
       "url": "https://github.com/web-infra-dev"
     },
-    "stars": 12552,
-    "downloads": 15380785
+    "stars": 12554,
+    "downloads": 15453474
   },
   {
     "id": "Rsbuild",
@@ -395,8 +395,8 @@
       "name": "Web Infra",
       "url": "https://github.com/web-infra-dev"
     },
-    "stars": 3243,
-    "downloads": 3380625
+    "stars": 3244,
+    "downloads": 3386629
   },
   {
     "id": "Rslib",
@@ -415,7 +415,7 @@
       "url": "https://github.com/web-infra-dev"
     },
     "stars": 977,
-    "downloads": 550851
+    "downloads": 547725
   },
   {
     "id": "iconify",
@@ -433,8 +433,8 @@
       "name": "Vjacheslav Trushkin",
       "url": "https://github.com/cyberalien"
     },
-    "stars": 5974,
-    "downloads": 2113460
+    "stars": 5976,
+    "downloads": 2090006
   },
   {
     "id": "Icons",
@@ -481,8 +481,8 @@
       "name": "Lucide",
       "url": "https://github.com/lucide-icons"
     },
-    "stars": 21489,
-    "downloads": 1560048
+    "stars": 21496,
+    "downloads": 1554035
   },
   {
     "id": "Simple Icon",
@@ -500,8 +500,8 @@
       "name": "Simple Icons",
       "url": "https://github.com/simple-icons"
     },
-    "stars": 24625,
-    "downloads": 725463
+    "stars": 24630,
+    "downloads": 738082
   },
   {
     "id": "Feather Icon",
@@ -520,7 +520,7 @@
       "url": "https://github.com/feathericons"
     },
     "stars": 25844,
-    "downloads": 654023
+    "downloads": 648693
   },
   {
     "id": "Font Awesome",
@@ -539,7 +539,7 @@
       "url": "https://github.com/FortAwesome"
     },
     "stars": 76409,
-    "downloads": 1367259
+    "downloads": 1360606
   },
   {
     "id": "Yesicon",
@@ -609,7 +609,7 @@
       "url": "https://github.com/jlmakes"
     },
     "stars": 22524,
-    "downloads": 54820
+    "downloads": 54780
   },
   {
     "id": "Scroll Magic",
@@ -628,7 +628,7 @@
       "url": "https://github.com/janpaepke"
     },
     "stars": 14954,
-    "downloads": 134336
+    "downloads": 132603
   },
   {
     "id": "Rellax",
@@ -647,7 +647,7 @@
       "url": "https://github.com/moeamaya"
     },
     "stars": 7163,
-    "downloads": 76934
+    "downloads": 77186
   },
   {
     "id": "Animate.css",
@@ -666,7 +666,7 @@
       "url": "https://github.com/warengonzaga"
     },
     "stars": 82627,
-    "downloads": 2195254
+    "downloads": 2192788
   },
   {
     "id": "Animate On Scroll",
@@ -684,8 +684,8 @@
       "name": "Michał Sajnóg",
       "url": "https://github.com/michalsnik"
     },
-    "stars": 28056,
-    "downloads": 982541
+    "stars": 28058,
+    "downloads": 968892
   },
   {
     "id": "Wow.js",
@@ -704,7 +704,7 @@
       "url": "https://github.com/graingert"
     },
     "stars": 1688,
-    "downloads": 21223
+    "downloads": 21287
   },
   {
     "id": "Three.js",
@@ -722,8 +722,8 @@
       "name": "mrdoob",
       "url": "https://github.com/mrdoob"
     },
-    "stars": 111296,
-    "downloads": 25334755
+    "stars": 111318,
+    "downloads": 25265129
   },
   {
     "id": "GSAP",
@@ -741,8 +741,8 @@
       "name": "GreenSock",
       "url": "https://github.com/greensock"
     },
-    "stars": 23999,
-    "downloads": 9175013
+    "stars": 24002,
+    "downloads": 9142260
   },
   {
     "id": "lottie-web",
@@ -760,8 +760,8 @@
       "name": "Airbnb",
       "url": "https://github.com/airbnb"
     },
-    "stars": 31745,
-    "downloads": 19179571
+    "stars": 31747,
+    "downloads": 19196892
   },
   {
     "id": "Sass / SCSS",
@@ -779,8 +779,8 @@
       "name": "Sass",
       "url": "https://github.com/sass"
     },
-    "stars": 4178,
-    "downloads": 100837858
+    "stars": 4179,
+    "downloads": 100664001
   },
   {
     "id": "PostCSS",
@@ -799,7 +799,7 @@
       "url": "https://github.com/ai"
     },
     "stars": 28973,
-    "downloads": 645613005
+    "downloads": 644432571
   },
   {
     "id": "CSS Modules",
@@ -817,8 +817,8 @@
       "name": "css-modules",
       "url": "https://github.com/css-modules"
     },
-    "stars": 17972,
-    "downloads": 7111
+    "stars": 17971,
+    "downloads": 7514
   },
   {
     "id": "UnoCSS",
@@ -836,8 +836,8 @@
       "name": "Anthony Fu",
       "url": "https://github.com/antfu"
     },
-    "stars": 18666,
-    "downloads": 1418293
+    "stars": 18668,
+    "downloads": 1372746
   },
   {
     "id": "Less",
@@ -856,7 +856,7 @@
       "url": "https://github.com/less"
     },
     "stars": 17054,
-    "downloads": 37820351
+    "downloads": 37837546
   },
   {
     "id": "Aceternity UI",
@@ -890,8 +890,8 @@
       "name": "PrimeTek",
       "url": "https://github.com/primefaces"
     },
-    "stars": 14145,
-    "downloads": 2328
+    "stars": 14147,
+    "downloads": 2292
   },
   {
     "id": "Magic UI",
@@ -907,7 +907,7 @@
       "name": "Beau Hayes-Pollard",
       "url": "https://github.com/beaubhp"
     },
-    "stars": 20375,
+    "stars": 20379,
     "downloads": 0
   },
   {
@@ -927,7 +927,7 @@
       "url": "https://github.com/tailwindlabs"
     },
     "stars": 94060,
-    "downloads": 225924508
+    "downloads": 225505532
   },
   {
     "id": "Preline UI",
@@ -946,7 +946,7 @@
       "url": "https://github.com/htmlstreamofficial"
     },
     "stars": 6264,
-    "downloads": 219679
+    "downloads": 217180
   },
   {
     "id": "Shadcn-vue",
@@ -964,8 +964,8 @@
       "name": "unovue",
       "url": "https://github.com/unovue"
     },
-    "stars": 9543,
-    "downloads": 196850
+    "stars": 9551,
+    "downloads": 194491
   },
   {
     "id": "Flowbite",
@@ -983,8 +983,8 @@
       "name": "Themesberg",
       "url": "https://github.com/themesberg"
     },
-    "stars": 9155,
-    "downloads": 2108826
+    "stars": 9158,
+    "downloads": 0
   },
   {
     "id": "Daisy UI",
@@ -1002,8 +1002,8 @@
       "name": "Pouya Saadeghi",
       "url": "https://github.com/saadeghi"
     },
-    "stars": 40462,
-    "downloads": 2716007
+    "stars": 40473,
+    "downloads": 0
   },
   {
     "id": "Float UI",
@@ -1039,7 +1039,7 @@
       "url": "https://github.com/themeselection"
     },
     "stars": 2376,
-    "downloads": 23143
+    "downloads": 0
   },
   {
     "id": "merakiui",
@@ -1093,8 +1093,8 @@
       "name": "Evan You",
       "url": "https://github.com/yyx990803"
     },
-    "stars": 53198,
-    "downloads": 40237954
+    "stars": 53204,
+    "downloads": 40105912
   },
   {
     "id": "vue router",
@@ -1112,7 +1112,7 @@
       "name": "posva",
       "url": "https://github.com/posva"
     },
-    "stars": 4558,
+    "stars": 4562,
     "downloads": 0
   },
   {
@@ -1150,7 +1150,7 @@
       "name": "posva",
       "url": "https://github.com/posva"
     },
-    "stars": 14507,
+    "stars": 14509,
     "downloads": 0
   },
   {
@@ -1169,7 +1169,7 @@
       "name": "Evan You",
       "url": "https://github.com/yyx990803"
     },
-    "stars": 28394,
+    "stars": 28395,
     "downloads": 0
   },
   {
@@ -1189,7 +1189,7 @@
       "url": "https://github.com/prazdevs"
     },
     "stars": 2526,
-    "downloads": 1824676
+    "downloads": 0
   },
   {
     "id": "vue-i18n",
@@ -1207,7 +1207,7 @@
       "name": "intlify",
       "url": "https://github.com/intlify"
     },
-    "stars": 2656,
+    "stars": 2658,
     "downloads": 0
   },
   {
@@ -1284,7 +1284,7 @@
       "url": "https://github.com/antfu"
     },
     "stars": 3137,
-    "downloads": 23491437
+    "downloads": 23353854
   },
   {
     "id": "vite-plugin-pwa",
@@ -1302,7 +1302,7 @@
       "name": "Joaquín Sánchez",
       "url": "https://github.com/userquin"
     },
-    "stars": 4056,
+    "stars": 4057,
     "downloads": 0
   },
   {
@@ -1340,7 +1340,7 @@
       "name": "Lachlan Miller",
       "url": "https://github.com/lmiller1990"
     },
-    "stars": 1144,
+    "stars": 1145,
     "downloads": 0
   },
   {
@@ -1360,7 +1360,7 @@
       "url": "https://github.com/motiondivision"
     },
     "stars": 2142,
-    "downloads": 1071211
+    "downloads": 0
   },
   {
     "id": "vue-transitions",
@@ -1435,7 +1435,7 @@
       "name": "Anthony Fu",
       "url": "https://github.com/antfu"
     },
-    "stars": 22133,
+    "stars": 22135,
     "downloads": 0
   },
   {
@@ -1455,7 +1455,7 @@
       "url": "https://github.com/obiwanpelosi"
     },
     "stars": 5,
-    "downloads": 64
+    "downloads": 0
   },
   {
     "id": "vue-socket.io-extended",
@@ -1474,7 +1474,7 @@
       "url": "https://github.com/probil"
     },
     "stars": 626,
-    "downloads": 0
+    "downloads": 14217
   },
   {
     "id": "vue3-lazyload",
@@ -1550,7 +1550,7 @@
       "url": "https://github.com/MatteoGabriele"
     },
     "stars": 931,
-    "downloads": 546930
+    "downloads": 0
   },
   {
     "id": "vue-virtual-scroller",
@@ -1568,7 +1568,7 @@
       "name": "Guillaume Chau",
       "url": "https://github.com/Akryum"
     },
-    "stars": 10623,
+    "stars": 10626,
     "downloads": 0
   },
   {
@@ -1644,8 +1644,8 @@
       "name": "Sentry",
       "url": "https://github.com/getsentry"
     },
-    "stars": 8598,
-    "downloads": 4465057
+    "stars": 8599,
+    "downloads": 0
   },
   {
     "id": "@unhead/vue",
@@ -1664,7 +1664,7 @@
       "url": "https://github.com/unjs"
     },
     "stars": 1200,
-    "downloads": 0
+    "downloads": 7122663
   },
   {
     "id": "vue-draggable-plus",
@@ -1682,7 +1682,7 @@
       "name": "远方os",
       "url": "https://github.com/Alfred-Skyblue"
     },
-    "stars": 3949,
+    "stars": 3950,
     "downloads": 0
   },
   {
@@ -1701,7 +1701,7 @@
       "name": "iamkun",
       "url": "https://github.com/iamkun"
     },
-    "stars": 27211,
+    "stars": 27217,
     "downloads": 0
   },
   {
@@ -1720,8 +1720,8 @@
       "name": "Benjamin Canac",
       "url": "https://github.com/benjamincanac"
     },
-    "stars": 6352,
-    "downloads": 971394
+    "stars": 6355,
+    "downloads": 0
   },
   {
     "id": "primevue",
@@ -1739,7 +1739,7 @@
       "name": "PrimeTek",
       "url": "https://github.com/primefaces"
     },
-    "stars": 14145,
+    "stars": 14147,
     "downloads": 0
   },
   {
@@ -1758,7 +1758,7 @@
       "name": "Quasar Framework",
       "url": "https://github.com/quasarframework"
     },
-    "stars": 27104,
+    "stars": 27106,
     "downloads": 0
   },
   {
@@ -1777,7 +1777,7 @@
       "name": "Vuetify",
       "url": "https://github.com/vuetifyjs"
     },
-    "stars": 40984,
+    "stars": 40985,
     "downloads": 0
   },
   {
@@ -1815,8 +1815,8 @@
       "name": "unovue",
       "url": "https://github.com/unovue"
     },
-    "stars": 9543,
-    "downloads": 196850
+    "stars": 9551,
+    "downloads": 0
   },
   {
     "id": "naive-ui",
@@ -1834,7 +1834,7 @@
       "name": "tusen-ai",
       "url": "https://github.com/tusen-ai"
     },
-    "stars": 18179,
+    "stars": 18181,
     "downloads": 0
   },
   {
@@ -1853,8 +1853,8 @@
       "name": "Pouya Saadeghi",
       "url": "https://github.com/saadeghi"
     },
-    "stars": 40462,
-    "downloads": 0
+    "stars": 40473,
+    "downloads": 2687154
   },
   {
     "id": "Flowbite",
@@ -1872,7 +1872,7 @@
       "name": "Themesberg",
       "url": "https://github.com/themesberg"
     },
-    "stars": 9155,
+    "stars": 9158,
     "downloads": 0
   },
   {
@@ -1910,8 +1910,8 @@
       "name": "Segun Adebayo",
       "url": "https://github.com/segunadebayo"
     },
-    "stars": 5048,
-    "downloads": 89104
+    "stars": 5047,
+    "downloads": 0
   },
   {
     "id": "vuestic-ui",
@@ -1929,7 +1929,7 @@
       "name": "Epicmax",
       "url": "https://github.com/epicmaxco"
     },
-    "stars": 3722,
+    "stars": 3720,
     "downloads": 0
   },
   {
@@ -1968,7 +1968,7 @@
       "url": "https://github.com/btd"
     },
     "stars": 2363,
-    "downloads": 17317964
+    "downloads": 0
   },
   {
     "id": "vite-plugin-restart",
@@ -2044,7 +2044,7 @@
       "url": "https://github.com/unplugin"
     },
     "stars": 3774,
-    "downloads": 0
+    "downloads": 2547295
   },
   {
     "id": "vite-plugin-svg-icons",
@@ -2063,7 +2063,7 @@
       "url": "https://github.com/anncwb"
     },
     "stars": 951,
-    "downloads": 212557
+    "downloads": 0
   },
   {
     "id": "vite-plugin-html",
@@ -2139,7 +2139,7 @@
       "url": "https://github.com/antfu"
     },
     "stars": 234,
-    "downloads": 59732
+    "downloads": 0
   },
   {
     "id": "vite-plugin-vue",
@@ -2195,7 +2195,7 @@
       "name": "Evan You",
       "url": "https://github.com/yyx990803"
     },
-    "stars": 78799,
+    "stars": 78808,
     "downloads": 0
   },
   {
@@ -2234,7 +2234,7 @@
       "url": "https://github.com/jprichardson"
     },
     "stars": 9624,
-    "downloads": 637015318
+    "downloads": 0
   },
   {
     "id": "@types/fs-extra",
@@ -2252,8 +2252,8 @@
       "name": "DefinitelyTyped",
       "url": "https://github.com/DefinitelyTyped"
     },
-    "stars": 51033,
-    "downloads": 0
+    "stars": 51039,
+    "downloads": 46512340
   },
   {
     "id": "find-up",
@@ -2329,7 +2329,7 @@
       "url": "https://github.com/minimistjs"
     },
     "stars": 662,
-    "downloads": 507224929
+    "downloads": 0
   },
   {
     "id": "vitest",
@@ -2347,7 +2347,7 @@
       "name": "vitest-dev",
       "url": "https://github.com/vitest-dev"
     },
-    "stars": 16116,
+    "stars": 16115,
     "downloads": 0
   },
   {
@@ -2385,7 +2385,7 @@
       "name": "jestjs",
       "url": "https://github.com/jestjs"
     },
-    "stars": 45328,
+    "stars": 45326,
     "downloads": 0
   },
   {
@@ -2404,8 +2404,8 @@
       "name": "lodash",
       "url": "https://github.com/lodash"
     },
-    "stars": 61576,
-    "downloads": 481019541
+    "stars": 61574,
+    "downloads": 0
   },
   {
     "id": "es-toolkit",
@@ -2423,7 +2423,7 @@
       "name": "toss",
       "url": "https://github.com/toss"
     },
-    "stars": 10842,
+    "stars": 10844,
     "downloads": 0
   },
   {
@@ -2442,8 +2442,8 @@
       "name": "sodiray",
       "url": "https://github.com/sodiray"
     },
-    "stars": 4843,
-    "downloads": 0
+    "stars": 4844,
+    "downloads": 4402856
   },
   {
     "id": "heroicons",
@@ -2461,7 +2461,7 @@
       "name": "tailwindlabs",
       "url": "https://github.com/tailwindlabs"
     },
-    "stars": 23396,
+    "stars": 23395,
     "downloads": 0
   },
   {
@@ -2500,7 +2500,7 @@
       "url": "https://github.com/antfu"
     },
     "stars": 756,
-    "downloads": 3452255
+    "downloads": 3392845
   },
   {
     "id": "deepmerge",
@@ -2518,7 +2518,7 @@
       "name": "Josh Duff",
       "url": "https://github.com/TehShrike"
     },
-    "stars": 2820,
+    "stars": 2821,
     "downloads": 0
   },
   {
@@ -2556,8 +2556,8 @@
       "name": "Pooya Parsa",
       "url": "https://github.com/pi0"
     },
-    "stars": 5179,
-    "downloads": 0
+    "stars": 5180,
+    "downloads": 20009303
   },
   {
     "id": "boxen",
