@@ -25,10 +25,10 @@ jobs:
         node-version: [22.x]
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
           node-version: ${{ matrix.node-version }}
 
@@ -39,7 +39,7 @@ jobs:
         run: REQUEST_TOKEN=${{secrets.REQUEST_TOKEN}} npm run gen:data
 
       - name: "Commit"
-        uses: EndBug/add-and-commit@v4
+        uses: EndBug/add-and-commit@v10
         with:
           author_name: lonewolfyx
           author_email: 877085893@qq.com
