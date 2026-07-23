@@ -42,7 +42,7 @@ jobs:
         uses: EndBug/add-and-commit@v10
         with:
           author_name: lonewolfyx
-          author_email: 877085893@qq.com
+          author_email: olddrivero.king@qq.com
           message: "fix(data): Update the latest number of stars and downloads in dependency.json"
           add: "."
 
