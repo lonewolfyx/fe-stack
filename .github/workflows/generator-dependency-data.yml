@@ -36,7 +36,7 @@ jobs:
         run: REQUEST_TOKEN=${{secrets.REQUEST_TOKEN}} npm run gen:data
 
       - name: "Commit"
-        uses: EndBug/add-and-commit@v10
+        uses: EndBug/add-and-commit@v11
         with:
           author_name: lonewolfyx
           author_email: olddrivero.king@qq.com
